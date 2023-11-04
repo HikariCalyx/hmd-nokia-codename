@@ -49,4 +49,5 @@ Codename of HMD Nokia Smartphones / Tablets.
 | Nokia C2 Tava / Tennen / 2V Tella | ARC          | Tech Mahindra | ?            | armstrong       | 3                |
 | Nokia C3                          | GMR          | Sprocomm      | E6005N       | gamoraplus      | 105              |
 | Nokia C5 Endi                     | PMC          | Tech Mahindra | ?            | paramore        | 3                |
-|                                   |              |               |              |                 |                  |
+| Nokia XR20                        | TTG          | Hisense       | N910         | thething        | 110              |
+| Nokia X30                         | FCN          | Hisense       | N920         | falcon          | 110              |
