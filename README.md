@@ -43,9 +43,18 @@ Codename of HMD Nokia Smartphones / Tablets.
 | Nokia C1 2nd Edition              |              |               |              |                 |                  |
 | Nokia C2                          | NBL          | Tinno         | K550         | nebula          | 2                |
 | Nokia C3                          | GMR          | Sprocomm      | E6005N       | gamoraplus      | 105              |
+| Nokia C20 Plus                    | SUS          | Sprocomm      | E6517N       | sirius          | 105              |
+| Nokia G10                         | ROG          | Wingtech      | T?????       | rogue           | 101              |
+| Nokia G20                         | RNN          | Wingtech      | T?????       | ronin           | 101              |
 | Nokia G50                         | PHR          | Tinno         | P660         | punisher        | 105              |
+| Nokia G60                         | APO          | ?             | ?            | apollo          | ?                |
+| Nokia T10                         | PGN          | ?             | ?            | penguin         | ?                |
 | Nokia T20                         | RDD          | Emdoor        | ?            | riddler         | 111              |
+| Nokia T21                         | AGT          | Wingtech      | ?            | agent           | 101              |
+| Nokia X10                         | SCW          | ?             | ?            | scarletwitch    | 106              |
+| Nokia X20                         | QKS          | ?             | ?            | quicksilver     | 106              |
 | Nokia XR20                        | TTG          | Hisense       | N910         | thething        | 110              |
+| Nokia XR21                        | SNT          | ?             | ?            | sentry          | ?                |
 | Nokia X30                         | FCN          | Hisense       | N920         | falcon          | 110              |
 
 ## USA exclusive
