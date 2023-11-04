@@ -41,7 +41,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia C1                          | RKU          | Tinno         | K150         | rocket          | 2                |
 | Nokia C1 Plus                     | YDU          | Sprocomm      | E5531N       | yondu           | 105              |
 | Nokia C1 2nd Edition              | IRU          | ?             | ?            | irisumts        | ?                |
-| Nokia C2                          | NBL          | Tinno         | K550         | nebula          | 2                |
+| Nokia C2                          | NBL          | Tinno         | K550         | nebula          | 104              |
 | Nokia C2 2nd Edition              | DMN          | ?             | ?            | domino          | 109              |
 | Nokia C3                          | GMR          | Sprocomm      | E6005N       | gamoraplus      | 105              |
 | Nokia C01 Plus                    | IRS          | ?             | ?            | iris            | ?                |
