@@ -40,12 +40,29 @@ Codename of HMD Nokia Smartphones / Tablets.
 | Nokia 9 PureView                  | AOP          | FIH           |              | beholder        | 8                |
 | Nokia C1                          | RKU          | Tinno         | K150         | rocket          | 2                |
 | Nokia C1 Plus                     | YDU          | Sprocomm      | E5531N       | yondu           | 105              |
-| Nokia C1 2nd Edition              |              |               |              |                 |                  |
+| Nokia C1 2nd Edition              | IRU          | ?             | ?            | irisumts        | ?                |
 | Nokia C2                          | NBL          | Tinno         | K550         | nebula          | 2                |
+| Nokia C2 2nd Edition              | DMN          | ?             | ?            | domino          | ?                |
 | Nokia C3                          | GMR          | Sprocomm      | E6005N       | gamoraplus      | 105              |
+| Nokia C01 Plus                    | IRS          | ?             | ?            | iris            | ?                |
+| Nokia C02                         | CYR          | ?             | ?            | cypher          | ?                |
+| Nokia C10                         | MNT          | ?             | ?            | mantis          | ?                |
+| Nokia C12                         | NVA          | ?             | ?            | nova            | ?                |
+| Nokia C20                         | COS          | ?             | ?            | cosmo           | ?                |
 | Nokia C20 Plus                    | SUS          | Sprocomm      | E6517N       | sirius          | 105              |
+| Nokia C21                         | COR          | ?             | ?            | cosmorefresh    | ?                |
+| Nokia C21 Plus                    | HPE          | ?             | ?            | hope            | ?                |
+| Nokia C22                         | HKE          | ?             | ?            | cosmorefresh    | ?                |
+| Nokia C30                         | MNR          | ?             | ?            | monster         | ?                |
+| Nokia C31                         | VSI          | Wingtech      | T?????       | vision          | 101              |
+| Nokia C32                         | MKD          | ?             | ?            | mockingbird     | ?                |
 | Nokia G10                         | ROG          | Wingtech      | T?????       | rogue           | 101              |
+| Nokia G11                         | SCT          | ?             | ?            | shadowcat       | ?                |
+| Nokia G11 Plus                    | MGK          | ?             | ?            | magik           | ?                |
 | Nokia G20                         | RNN          | Wingtech      | T?????       | ronin           | 101              |
+| Nokia G21                         | SCP          | ?             | ?            | shadowcatplus   | ?                |
+| Nokia G22                         | SFI          | ?             | ?            | sunfire         | ?                |
+| Nokia G42                         | SDW          | ?             | ?            | shadow          | ?                |
 | Nokia G50                         | PHR          | Tinno         | P660         | punisher        | 105              |
 | Nokia G60                         | APO          | ?             | ?            | apollo          | ?                |
 | Nokia T10                         | PGN          | ?             | ?            | penguin         | ?                |
@@ -67,6 +84,12 @@ Codename of HMD Nokia Smartphones / Tablets.
 | Nokia 8.3 V 5G UW                 | RAV          | Huaqin        | ZQN1876c     | riseagainst     | 3                |
 | Nokia C2 Tava / Tennen / 2V Tella | ARC          | Tech Mahindra | ?            | armstrong       | 3                |
 | Nokia C5 Endi                     | PMC          | Tech Mahindra | ?            | paramore        | 3                |
+| Nokia C100                        | DKT          | ?             | ?            | ?               | ?                |
+| Nokia C200                        | DRK          | ?             | ?            | ?               | ?                |
+| Nokia C110                        | DGC          | ?             | ?            | ?               | ?                |
+| Nokia C300                        | ORT          | ?             | ?            | ?               | ?                |
 | Nokia G100                        | DPT          | ?             | ?            | dualipa         | 201              |
+| Nokia G300                        | AKT          | ?             | ?            | aoki            | ?                |
+| Nokia G310                        | ?            | ?             | ?            | ?               | ?                |
 | Nokia G400                        | STM          | Huaqin        | ?            | styles          | 206              |
 | Nokia X100                        | DM5          | ?             | ?            | deadmau5        | 203              |
