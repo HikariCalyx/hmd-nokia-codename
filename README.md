@@ -50,5 +50,6 @@ Codename of HMD Nokia Smartphones / Tablets.
 | Nokia C3                          | GMR          | Sprocomm      | E6005N       | gamoraplus      | 105              |
 | Nokia C5 Endi                     | PMC          | Tech Mahindra | ?            | paramore        | 3                |
 | Nokia G50                         | PHR          | Tinno         | P660         | punisher        | 105              |
+| Nokia T20                         | RDD          | Emdoor        | ?            | riddler        | 111              |
 | Nokia XR20                        | TTG          | Hisense       | N910         | thething        | 110              |
 | Nokia X30                         | FCN          | Hisense       | N920         | falcon          | 110              |
