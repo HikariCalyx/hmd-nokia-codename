@@ -58,6 +58,6 @@ Codename of HMD Nokia Smartphones / Tablets.
 | Nokia 8.3 V 5G UW                 | RAV          | Huaqin        | ZQN1876c     | riseagainst     | 3                |
 | Nokia C2 Tava / Tennen / 2V Tella | ARC          | Tech Mahindra | ?            | armstrong       | 3                |
 | Nokia C5 Endi                     | PMC          | Tech Mahindra | ?            | paramore        | 3                |
-| Nokia G100                        | DPT          | Huaqin        | ?            | dualipa         | 201              |
+| Nokia G100                        | DPT          | ?             | ?            | dualipa         | 201              |
 | Nokia G400                        | STM          | Huaqin        | ?            | styles          | 206              |
 | Nokia X100                        | DM5          | ?             | ?            | deadmau5        | 203              |
