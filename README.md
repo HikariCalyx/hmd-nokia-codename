@@ -85,8 +85,8 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia C2 Tava / Tennen / 2V Tella | ARC          | Tech Mahindra | ?            | armstrong       | 3                |
 | Nokia C5 Endi                     | PMC          | Tech Mahindra | ?            | paramore        | 3                |
 | Nokia C100                        | DKT          | ?             | ?            | ?               | ?                |
-| Nokia C200                        | DRK          | ?             | ?            | ?               | ?                |
 | Nokia C110                        | DGC          | ?             | ?            | ?               | ?                |
+| Nokia C200                        | DRK          | ?             | ?            | ?               | ?                |
 | Nokia C300                        | ORT          | ?             | ?            | ?               | ?                |
 | Nokia G100                        | DPT          | ?             | ?            | dualipa         | 201              |
 | Nokia G300                        | AKT          | ?             | ?            | aoki            | 201              |
