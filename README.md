@@ -73,6 +73,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia XR20                        | TTG          | Hisense       | N910         | thething        | 110              |
 | Nokia XR21                        | SNT          | ?             | ?            | sentry          | ?                |
 | Nokia X30                         | FCN          | Hisense       | N920         | falcon          | 110              |
+| Nokia X71                         | TAS          | FIH           |              | taishan         | 8                |
 
 ## USA exclusive
 | Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version |
