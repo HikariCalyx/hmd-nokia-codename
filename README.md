@@ -38,21 +38,21 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia 8.1 / X7                    | PNX          | FIH           |              | phoenix         | 8                |
 | Nokia 8.3 5G                      | BGT          | Huaqin        | ZQN1876      | babygroot       | 102              |
 | Nokia 9 PureView                  | AOP          | FIH           |              | beholder        | 8                |
-| Nokia C1                          | RKU          | Tinno         | K150         | rocket          | 2                |
-| Nokia C1 Plus                     | YDU          | Sprocomm      | E5531N       | yondu           | 105              |
-| Nokia C1 2nd Edition              | IRU          | ?             | ?            | irisumts        | ?                |
-| Nokia C2                          | NBL          | Tinno         | K550         | nebula          | 104              |
-| Nokia C2 2nd Edition              | DMN          | ?             | ?            | domino          | 109              |
-| Nokia C3                          | GMR          | Sprocomm      | E6005N       | gamoraplus      | 105              |
 | Nokia C01 Plus                    | IRS          | ?             | ?            | iris            | ?                |
 | Nokia C02                         | CYR          | ?             | ?            | cypher          | ?                |
+| Nokia C1                          | RKU          | Tinno         | K150         | rocket          | 2                |
+| Nokia C1 2nd Edition              | IRU          | ?             | ?            | irisumts        | ?                |
+| Nokia C1 Plus                     | YDU          | Sprocomm      | E5531N       | yondu           | 105              |
 | Nokia C10                         | MNT          | ?             | ?            | mantis          | 109              |
 | Nokia C12                         | NVA          | ?             | ?            | nova            | ?                |
+| Nokia C2                          | NBL          | Tinno         | K550         | nebula          | 104              |
+| Nokia C2 2nd Edition              | DMN          | ?             | ?            | domino          | 109              |
 | Nokia C20                         | COS          | ?             | ?            | cosmo           | ?                |
 | Nokia C20 Plus                    | SUS          | Sprocomm      | E6517N       | sirius          | 105              |
 | Nokia C21                         | COR          | ?             | ?            | cosmorefresh    | 109              |
 | Nokia C21 Plus                    | HPE          | Wingtech      | T?????       | hope            | 101              |
 | Nokia C22                         | HKE          | Sprocomm      | E????N       | hawkeye         | 105              |
+| Nokia C3                          | GMR          | Sprocomm      | E6005N       | gamoraplus      | 105              |
 | Nokia C30                         | MNR          | ?             | ?            | monster         | 109              |
 | Nokia C31                         | VSI          | Wingtech      | T?????       | vision          | 101              |
 | Nokia C32                         | MKD          | Sprocomm      | ?            | mockingbird     | 105              |
@@ -70,10 +70,10 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia T21                         | AGT          | Wingtech      | ?            | agent           | 101              |
 | Nokia X10                         | SCW          | ?             | ?            | scarletwitch    | 106              |
 | Nokia X20                         | QKS          | ?             | ?            | quicksilver     | 106              |
-| Nokia XR20                        | TTG          | Hisense       | N910         | thething        | 110              |
-| Nokia XR21                        | SNT          | ?             | ?            | sentry          | ?                |
 | Nokia X30                         | FCN          | Hisense       | N920         | falcon          | 110              |
 | Nokia X71                         | TAS          | FIH           |              | taishan         | 8                |
+| Nokia XR20                        | TTG          | Hisense       | N910         | thething        | 110              |
+| Nokia XR21                        | SNT          | ?             | ?            | sentry          | ?                |
 
 ## USA exclusive
 | Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version |
