@@ -62,7 +62,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia G20                         | RNN          | Wingtech      | T?????       | ronin           | 101              |
 | Nokia G21                         | SCP          | Wingtech      | T?????       | shadowcatplus   | 101              |
 | Nokia G22                         | SFI          | ?             | ?            | sunfire         | 106              |
-| Nokia G42                         | SDW          | Tinno         | ?            | shadow          | 104              |
+| Nokia G42                         | SDW          | ?             | ?            | shadow          | 106              |
 | Nokia G50                         | PHR          | Tinno         | P660         | punisher        | 105              |
 | Nokia G60                         | APO          | ?             | ?            | apollo          | ?                |
 | Nokia T10                         | PGN          | ?             | ?            | penguin         | ?                |
@@ -93,6 +93,6 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia C300                        | ORT          | ?             | ?            | ?               | ?                |
 | Nokia G100                        | DPT          | ?             | ?            | dualipa         | 201              |
 | Nokia G300                        | AKT          | ?             | ?            | aoki            | 201              |
-| Nokia G310                        | ?            | ?             | ?            | ?               | ?                |
+| Nokia G310                        | SDT          | ?             | ?            | shadowTMO       | 212              |
 | Nokia G400                        | STM          | Huaqin        | ?            | styles          | 208              |
 | Nokia X100                        | DM5          | ?             | ?            | deadmau5        | 203              |
