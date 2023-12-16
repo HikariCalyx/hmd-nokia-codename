@@ -83,7 +83,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia 3.1 Plus C                  | RHD          | FIH           |              | radiohead       | 8                |
 | Nokia 3.2 V                       | DPL_VZW      | Wingtech      | T89629       | deadpool_vzw    | 3                |
 | Nokia 8.3 V 5G UW                 | RAV          | Huaqin        | ZQN1876c     | riseagainst     | 3                |
-| Nokia 2780                        | WND          | ?             | ?            | ?               | 114              |
+| Nokia 2780                        | WND          | FIH           |              | weeknd          | 114              |
 | Nokia C2 Tava / Tennen / 2V Tella | ARC          | Tech Mahindra | ?            | armstrong       | 3                |
 | Nokia C5 Endi                     | PMC          | Tech Mahindra | ?            | paramore        | 3                |
 | Nokia C100                        | DKT          | ?             | ?            | ?               | ?                |
