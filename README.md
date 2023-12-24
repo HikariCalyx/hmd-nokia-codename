@@ -27,7 +27,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia 6 CN                        | D1C          | FIH           |              | plate           | 4                |
 | Nokia 6 Global                    | PLE          | FIH           |              | plate           | 4                |
 | Nokia 6.1                         | PL2          | FIH           |              | plate2          | 4                |
-| Nokia 6.1 Plus X6                 | DRG          | FIH           |              | dragon          | 4                |
+| Nokia 6.1 Plus / X6               | DRG          | FIH           |              | dragon          | 4                |
 | Nokia 6.2                         | SLD          | Longcheer     | M490         | starlord        | 103              |
 | Nokia 7                           | C1N          | FIH           |              | charm           | 4                |
 | Nokia 7 Plus                      | B2N          | FIH           |              | onyx            | 4                |
@@ -38,6 +38,10 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia 8.1 / X7                    | PNX          | FIH           |              | phoenix         | 8                |
 | Nokia 8.3 5G                      | BGT          | Huaqin        | ZQN1876      | babygroot       | 102              |
 | Nokia 9 PureView                  | AOP          | FIH           |              | beholder        | 8                |
+| Nokia 400 4G (GAFP)               | IPA          | FIH           |              | ironpatriot     | -                |
+| Nokia 800 Tough (KaiOS)           | CNT          | FIH           |              | coconut         | -                |
+| Nokia 2720 Flip (KaiOS)           | BTS          | FIH           |              | beatles         | -                |
+| Nokia 8110 4G (KaiOS)             | ARG          | FIH           |              | argon           | -                |
 | Nokia C01 Plus                    | IRS          | ?             | ?            | iris            | ?                |
 | Nokia C02                         | CYR          | ?             | ?            | cypher          | ?                |
 | Nokia C1                          | RKU          | Tinno         | K150         | rocket          | 2                |
@@ -65,7 +69,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia G42                         | SDW          | ?             | ?            | shadow          | 106              |
 | Nokia G50                         | PHR          | Tinno         | P660         | punisher        | 105              |
 | Nokia G60                         | APO          | ?             | ?            | apollo          | ?                |
-| Nokia T10                         | PGN          | ?             | ?            | penguin         | ?                |
+| Nokia T10                         | PGN          | ?             | ?            | penguin         | 112              |
 | Nokia T20                         | RDD          | Emdoor        | ?            | riddler         | 111              |
 | Nokia T21                         | AGT          | Wingtech      | ?            | agent           | 101              |
 | Nokia X10                         | SCW          | ?             | ?            | scarletwitch    | 106              |
@@ -83,7 +87,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia 3.1 Plus C                  | RHD          | FIH           |              | radiohead       | 8                |
 | Nokia 3.2 V                       | DPL_VZW      | Wingtech      | T89629       | deadpool_vzw    | 3                |
 | Nokia 8.3 V 5G UW                 | RAV          | Huaqin        | ZQN1876c     | riseagainst     | 3                |
-| Nokia 2780                        | WND          | FIH           |              | weeknd          | 114              |
+| Nokia 2780 Flip (KaiOS)           | WND          | FIH           |              | weeknd          | 114              |
 | Nokia C2 Tava / Tennen / 2V Tella | ARC          | Tech Mahindra | ?            | armstrong       | 3                |
 | Nokia C5 Endi                     | PMC          | Tech Mahindra | ?            | paramore        | 3                |
 | Nokia C100                        | DKT          | ?             | ?            | ?               | ?                |
