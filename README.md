@@ -43,7 +43,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia 2720 Flip (KaiOS)           | BTS          | FIH           |              | beatles         | -                |
 | Nokia 8110 4G (KaiOS)             | ARG          | FIH           |              | argon           | -                |
 | Nokia C01 Plus                    | IRS          | ?             | ?            | iris            | ?                |
-| Nokia C02                         | CYR          | ?             | ?            | cypher          | ?                |
+| Nokia C02                         | CYR          | Sprocomm      | E????N       | cypher          | 105              |
 | Nokia C1                          | RKU          | Tinno         | K150         | rocket          | 2                |
 | Nokia C1 2nd Edition              | IRU          | ?             | ?            | irisumts        | ?                |
 | Nokia C1 Plus                     | YDU          | Sprocomm      | E5531N       | yondu           | 105              |
