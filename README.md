@@ -59,7 +59,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia C3                          | GMR          | Sprocomm      | E6005N       | gamoraplus      | 105              |
 | Nokia C30                         | MNR          | ?             | ?            | monster         | 109              |
 | Nokia C31                         | VSI          | Wingtech      | T19681       | vision          | 101              |
-| Nokia C32                         | MKD          | Sprocomm      | ?            | mockingbird     | 105              |
+| Nokia C32                         | MKD          | Sprocomm      | E6546N       | mockingbird     | 105              |
 | Nokia G10                         | ROG          | Wingtech      | T?????       | rogue           | 101              |
 | Nokia G11                         | SCT          | ?             | ?            | shadowcat       | ?                |
 | Nokia G11 Plus                    | MGK          | ?             | ?            | magik           | ?                |
