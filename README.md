@@ -7,7 +7,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia 1                           | FRT          | FIH           |              | frontier        | 4                |
 | Nokia 1 Plus                      | ANT          | FIH           |              | antman          | 8                |
 | Nokia 1.3                         | DRX          | Wingtech      | T89572       | drax            | 101              |
-| Nokia 1.4                         | CBL          | Tinno         |              | cable           | 104              |
+| Nokia 1.4                         | CBL          | Tinno         | K580         | cable           | 104              |
 | Nokia 2                           | E1M          | FIH           |              | dynamo          | 4                |
 | Nokia 2.1                         | E2M          | FIH           |              | dynamo2         | 4                |
 | Nokia 2.2                         | WSP          | Huaqin        | ZAL1670      | wasp            | 102              |
@@ -60,14 +60,14 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia C30                         | MNR          | ?             | ?            | monster         | 109              |
 | Nokia C31                         | VSI          | Wingtech      | T19681       | vision          | 101              |
 | Nokia C32                         | MKD          | Sprocomm      | E6546N       | mockingbird     | 105              |
-| Nokia G10                         | ROG          | Wingtech      | T?????       | rogue           | 101              |
+| Nokia G10                         | ROG          | Wingtech      | T99652       | rogue           | 101              |
 | Nokia G11                         | SCT          | ?             | ?            | shadowcat       | ?                |
 | Nokia G11 Plus                    | MGK          | ?             | ?            | magik           | ?                |
-| Nokia G20                         | RNN          | Wingtech      | T?????       | ronin           | 101              |
+| Nokia G20                         | RNN          | Wingtech      | T99653       | ronin           | 101              |
 | Nokia G21                         | SCP          | Wingtech      | T?????       | shadowcatplus   | 101              |
 | Nokia G22                         | SFI          | ?             | ?            | sunfire         | 106              |
 | Nokia G42                         | SDW          | ?             | ?            | shadow          | 106              |
-| Nokia G50                         | PHR          | Tinno         | P660         | punisher        | 105              |
+| Nokia G50                         | PHR          | Tinno         | P660         | punisher        | 104              |
 | Nokia G60                         | APO          | ?             | ?            | apollo          | ?                |
 | Nokia T10                         | PGN          | ?             | ?            | penguin         | 112              |
 | Nokia T20                         | RDD          | Emdoor        | ?            | riddler         | 111              |
