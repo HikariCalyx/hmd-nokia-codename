@@ -102,8 +102,10 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia X100                        | DM5          | ?             | ?            | deadmau5        | 203              | Yes (Prototype ABL)   |
 
 ## About bootloader unlockable reason
-*UU4: HCTSW Care Unlock Utility 4 available on https://hikaricalyx.com/request-bootloader-unlock
-*Prototype ABOOT or ABL: Bootloer will become unlockable after utilize the prototype ABOOT or ABL image available on https://fih-firmware.hikaricalyx.com/protoabl
-*MTK Generic: ```fastboot oem key [md5_checksum_of_your_psn]```, then ```fastboot flashing unlock```
-*MTKClient: This tool is available on https://github.com/bkerler/mtkclient
-*Generic: Enabling OEM Unlocking in developer options (or write 0x01 at last byte of config/frp partition), then bootloader will become unlockable. 
+
+- UU4: HCTSW Care Unlock Utility 4 available on https://hikaricalyx.com/request-bootloader-unlock
+- Prototype ABOOT or ABL: Bootloer will become unlockable after utilize the prototype ABOOT or ABL image available on https://fih-firmware.hikaricalyx.com/protoabl
+- MTK Generic: ```fastboot oem key [md5_checksum_of_your_psn]```, then ```fastboot flashing unlock```
+- MTKClient: This tool is available on https://github.com/bkerler/mtkclient
+- Generic: Enabling OEM Unlocking in developer options (or write 0x01 at last byte of config/frp partition), then bootloader will become unlockable. 
+- No: No known methods available for bootloader unlock yet.
