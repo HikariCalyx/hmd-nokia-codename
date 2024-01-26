@@ -2,101 +2,101 @@
 Codename of HMD Nokia Android Smartphones / Tablets.
 
 ## ROW models
-| Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version |
-|-----------------------------------|--------------|---------------|--------------|-----------------|------------------|
-| Nokia 1                           | FRT          | FIH           |              | frontier        | 4                |
-| Nokia 1 Plus                      | ANT          | FIH           |              | antman          | 8                |
-| Nokia 1.3                         | DRX          | Wingtech      | T89572       | drax            | 101              |
-| Nokia 1.4                         | CBL          | Tinno         | K580         | cable           | 104              |
-| Nokia 2                           | E1M          | FIH           |              | dynamo          | 4                |
-| Nokia 2.1                         | E2M          | FIH           |              | dynamo2         | 4                |
-| Nokia 2.2                         | WSP          | Huaqin        | ZAL1670      | wasp            | 102              |
-| Nokia 2.3                         | IRM          | Wingtech      | T99621       | ironman         | 101              |
-| Nokia 2.4                         | WVR          | Wingtech      | T99651       | wolverine       | 101              |
-| Nokia 3                           | NE1          | FIH           |              | essential       | 4                |
-| Nokia 3.1                         | ES2          | FIH           |              | essential2      | 4                |
-| Nokia 3.1 Plus                    | ROO          | FIH           |              | rooster         | 8                |
-| Nokia 3.2                         | DPL          | Wingtech      | T89626       | deadpool        | 101              |
-| Nokia 3.4                         | DRS          | Huaqin        | ZQL1838      | doctorstrange   | 102              |
-| Nokia 4.2                         | PAN          | Wingtech      | T89571       | panther         | 101              |
-| Nokia 5                           | ND1          | FIH           |              | core            | 4                |
-| Nokia 5.1                         | CO2          | FIH           |              | core2           | 4                |
-| Nokia 5.1 Plus / X5               | PDA          | FIH           |              | panda           | 4                |
-| Nokia 5.3                         | CAP          | Longcheer     | M528         | captainamerica  | 103              |
-| Nokia 5.4                         | DRD          | Huaqin        | ZQL1849      | doctordoom      | 102              |
-| Nokia 6 CN                        | D1C          | FIH           |              | plate           | 4                |
-| Nokia 6 Global                    | PLE          | FIH           |              | plate           | 4                |
-| Nokia 6.1                         | PL2          | FIH           |              | plate2          | 4                |
-| Nokia 6.1 Plus / X6               | DRG          | FIH           |              | dragon          | 4                |
-| Nokia 6.2                         | SLD          | Longcheer     | M490         | starlord        | 103              |
-| Nokia 7                           | C1N          | FIH           |              | charm           | 4                |
-| Nokia 7 Plus                      | B2N          | FIH           |              | onyx            | 4                |
-| Nokia 7.1                         | CTL          | FIH           |              | crystal         | 4                |
-| Nokia 7.2                         | DDV          | Longcheer     | M690         | daredevil       | 103              |
-| Nokia 8                           | NB1          | FIH           |              | bang            | 4                |
-| Nokia 8 Sirocco                   | A1N          | FIH           |              | avenger         | 4                |
-| Nokia 8.1 / X7                    | PNX          | FIH           |              | phoenix         | 8                |
-| Nokia 8.3 5G                      | BGT          | Huaqin        | ZQN1876      | babygroot       | 102              |
-| Nokia 9 PureView                  | AOP          | FIH           |              | beholder        | 8                |
-| Nokia 400 4G (GAFP)               | IPA          | FIH           |              | ironpatriot     | -                |
-| Nokia 800 Tough (KaiOS)           | CNT          | FIH           |              | coconut         | -                |
-| Nokia 2720 Flip (KaiOS)           | BTS          | FIH           |              | beatles         | -                |
-| Nokia 8110 4G (KaiOS)             | ARG          | FIH           |              | argon           | -                |
-| Nokia C01 Plus                    | IRS          | Wingtech      | T19545       | iris            | 101              |
-| Nokia C02                         | CYR          | Sprocomm      | E????N       | cypher          | 105              |
-| Nokia C1                          | RKU          | Tinno         | K150         | rocket          | 2                |
-| Nokia C1 2nd Edition              | IRU          | ?             | ?            | irisumts        | ?                |
-| Nokia C1 Plus                     | YDU          | Sprocomm      | E5531N       | yondu           | 105              |
-| Nokia C10                         | MNT          | ?             | ?            | mantis          | 109              |
-| Nokia C12                         | NVA          | ?             | ?            | nova            | ?                |
-| Nokia C2                          | NBL          | Tinno         | K550         | nebula          | 104              |
-| Nokia C2 2nd Edition              | DMN          | ?             | ?            | domino          | 109              |
-| Nokia C20                         | COS          | ?             | ?            | cosmo           | 109              |
-| Nokia C20 Plus                    | SUS          | Sprocomm      | E6517N       | sirius          | 105              |
-| Nokia C21                         | COR          | ?             | ?            | cosmorefresh    | 109              |
-| Nokia C21 Plus                    | HPE          | Wingtech      | T?????       | hope            | 101              |
-| Nokia C22                         | HKE          | Sprocomm      | E????N       | hawkeye         | 105              |
-| Nokia C3                          | GMR          | Sprocomm      | E6005N       | gamoraplus      | 105              |
-| Nokia C30                         | MNR          | ?             | ?            | monster         | 109              |
-| Nokia C31                         | VSI          | Wingtech      | T19681       | vision          | 101              |
-| Nokia C32                         | MKD          | Sprocomm      | E6546N       | mockingbird     | 105              |
-| Nokia G10                         | ROG          | Wingtech      | T99652       | rogue           | 101              |
-| Nokia G11                         | SCT          | ?             | ?            | shadowcat       | ?                |
-| Nokia G11 Plus                    | MGK          | ?             | ?            | magik           | ?                |
-| Nokia G20                         | RNN          | Wingtech      | T99653       | ronin           | 101              |
-| Nokia G21                         | SCP          | Wingtech      | T?????       | shadowcatplus   | 101              |
-| Nokia G22                         | SFI          | ?             | ?            | sunfire         | 106              |
-| Nokia G42                         | SDW          | ?             | ?            | shadow          | 106              |
-| Nokia G50                         | PHR          | Tinno         | P660         | punisher        | 104              |
-| Nokia G60                         | APO          | ?             | ?            | apollo          | 106              |
-| Nokia T10                         | PGN          | ?             | ?            | penguin         | 112              |
-| Nokia T20                         | RDD          | Emdoor        | ?            | riddler         | 111              |
-| Nokia T21                         | AGT          | Wingtech      | ?            | agent           | 101              |
-| Nokia X10                         | SCW          | ?             | ?            | scarletwitch    | 106              |
-| Nokia X20                         | QKS          | ?             | ?            | quicksilver     | 106              |
-| Nokia X30                         | FCN          | Hisense       | N920         | falcon          | 110              |
-| Nokia X71                         | TAS          | FIH           |              | taishan         | 8                |
-| Nokia XR20                        | TTG          | Hisense       | N910         | thething        | 110              |
-| Nokia XR21                        | SNT          | Hisense       | ?            | sentry          | 110              |
+| Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable |
+|-----------------------------------|--------------|---------------|--------------|-----------------|------------------|-----------------------|
+| Nokia 1                           | FRT          | FIH           |              | frontier        | 4                | Yes (MTK Generic)     |
+| Nokia 1 Plus                      | ANT          | FIH           |              | antman          | 8                | Yes (MTK Generic)     |
+| Nokia 1.3                         | DRX          | Wingtech      | T89572       | drax            | 101              | Yes (Generic)         |
+| Nokia 1.4                         | CBL          | Tinno         | K580         | cable           | 104              | Yes (Prototype ABOOT) |
+| Nokia 2                           | E1M          | FIH           |              | dynamo          | 4                | Yes (UU4)             |
+| Nokia 2.1                         | E2M          | FIH           |              | dynamo2         | 4                | Yes (UU4)             |
+| Nokia 2.2                         | WSP          | Huaqin        | ZAL1670      | wasp            | 102              | Yes (MTKClient)       |
+| Nokia 2.3                         | IRM          | Wingtech      | T99621       | ironman         | 101              | Yes (MTKClient)       |
+| Nokia 2.4                         | WVR          | Wingtech      | T99651       | wolverine       | 101              | Yes (MTKClient)       |
+| Nokia 3                           | NE1          | FIH           |              | essential       | 4                | Yes (MTK Generic)     |
+| Nokia 3.1                         | ES2          | FIH           |              | essential2      | 4                | Yes (UU4)             |
+| Nokia 3.1 Plus                    | ROO          | FIH           |              | rooster         | 8                | Yes (UU4)             |
+| Nokia 3.2                         | DPL          | Wingtech      | T89626       | deadpool        | 101              | Yes (Generic)         |
+| Nokia 3.4                         | DRS          | Huaqin        | ZQL1838      | doctorstrange   | 102              | Yes (Prototype ABL)   |
+| Nokia 4.2                         | PAN          | Wingtech      | T89571       | panther         | 101              | Yes (Generic)         |
+| Nokia 5                           | ND1          | FIH           |              | core            | 4                | Yes (UU4)             |
+| Nokia 5.1                         | CO2          | FIH           |              | core2           | 4                | Yes (UU4)             |
+| Nokia 5.1 Plus / X5               | PDA          | FIH           |              | panda           | 4                | Yes (UU4)             |
+| Nokia 5.3                         | CAP          | Longcheer     | M528         | captainamerica  | 103              | Yes (Prototype ABL)   |
+| Nokia 5.4                         | DRD          | Huaqin        | ZQL1849      | doctordoom      | 102              | Yes (Prototype ABL)   |
+| Nokia 6 CN                        | D1C          | FIH           |              | plate           | 4                | Yes (UU4)             |
+| Nokia 6 Global                    | PLE          | FIH           |              | plate           | 4                | Yes (UU4)             |
+| Nokia 6.1                         | PL2          | FIH           |              | plate2          | 4                | Yes (UU4)             |
+| Nokia 6.1 Plus / X6               | DRG          | FIH           |              | dragon          | 4                | Yes (UU4)             |
+| Nokia 6.2                         | SLD          | Longcheer     | M490         | starlord        | 103              | Yes (Early FW ABL)    |
+| Nokia 7                           | C1N          | FIH           |              | charm           | 4                | Yes (UU4)             |
+| Nokia 7 Plus                      | B2N          | FIH           |              | onyx            | 4                | Yes (UU4)             |
+| Nokia 7.1                         | CTL          | FIH           |              | crystal         | 4                | Yes (UU4)             |
+| Nokia 7.2                         | DDV          | Longcheer     | M690         | daredevil       | 103              | Yes (Early FW ABL)    |
+| Nokia 8                           | NB1          | FIH           |              | bang            | 4                | Yes (UU4)             |
+| Nokia 8 Sirocco                   | A1N          | FIH           |              | avenger         | 4                | Yes (UU4)             |
+| Nokia 8.1 / X7                    | PNX          | FIH           |              | phoenix         | 8                | Yes (UU4)             |
+| Nokia 8.3 5G                      | BGT          | Huaqin        | ZQN1876      | babygroot       | 102              | Yes (Prototype ABL)   |
+| Nokia 9 PureView                  | AOP          | FIH           |              | beholder        | 8                | Yes (UU4)             |
+| Nokia 400 4G (GAFP)               | IPA          | FIH           |              | ironpatriot     | -                | No                    |
+| Nokia 800 Tough (KaiOS)           | CNT          | FIH           |              | coconut         | -                | Yes (Generic)         |
+| Nokia 2720 Flip (KaiOS)           | BTS          | FIH           |              | beatles         | -                | Yes (Generic)         |
+| Nokia 8110 4G (KaiOS)             | ARG          | FIH           |              | argon           | -                | Yes (Generic)         |
+| Nokia C01 Plus                    | IRS          | Wingtech      | T19545       | iris            | 101              | No                    |
+| Nokia C02                         | CYR          | Sprocomm      | E????N       | cypher          | 105              | No                    |
+| Nokia C1                          | RKU          | Tinno         | K150         | rocket          | 2                | No                    |
+| Nokia C1 2nd Edition              | IRU          | ?             | ?            | irisumts        | ?                | No                    |
+| Nokia C1 Plus                     | YDU          | Sprocomm      | E5531N       | yondu           | 105              | No                    |
+| Nokia C10                         | MNT          | ?             | ?            | mantis          | 109              | No                    |
+| Nokia C12                         | NVA          | ?             | ?            | nova            | ?                | No                    |
+| Nokia C2                          | NBL          | Tinno         | K550         | nebula          | 104              | No                    |
+| Nokia C2 2nd Edition              | DMN          | ?             | ?            | domino          | 109              | No                    |
+| Nokia C20                         | COS          | ?             | ?            | cosmo           | 109              | No                    |
+| Nokia C20 Plus                    | SUS          | Sprocomm      | E6517N       | sirius          | 105              | No                    |
+| Nokia C21                         | COR          | ?             | ?            | cosmorefresh    | 109              | No                    |
+| Nokia C21 Plus                    | HPE          | Wingtech      | T?????       | hope            | 101              | No                    |
+| Nokia C22                         | HKE          | Sprocomm      | E????N       | hawkeye         | 105              | No                    |
+| Nokia C3                          | GMR          | Sprocomm      | E6005N       | gamoraplus      | 105              | No                    |
+| Nokia C30                         | MNR          | ?             | ?            | monster         | 109              | No                    |
+| Nokia C31                         | VSI          | Wingtech      | T19681       | vision          | 101              | No                    |
+| Nokia C32                         | MKD          | Sprocomm      | E6546N       | mockingbird     | 105              | No                    |
+| Nokia G10                         | ROG          | Wingtech      | T99652       | rogue           | 101              | Yes (MTKClient)       |
+| Nokia G11                         | SCT          | ?             | ?            | shadowcat       | ?                | No                    |
+| Nokia G11 Plus                    | MGK          | ?             | ?            | magik           | ?                | No                    |
+| Nokia G20                         | RNN          | Wingtech      | T99653       | ronin           | 101              | Yes (MTKClient)       |
+| Nokia G21                         | SCP          | Wingtech      | T?????       | shadowcatplus   | 101              | No                    |
+| Nokia G22                         | SFI          | ?             | ?            | sunfire         | 106              | No                    |
+| Nokia G42                         | SDW          | ?             | ?            | shadow          | 106              | No                    |
+| Nokia G50                         | PHR          | Tinno         | P660         | punisher        | 104              | No                    |
+| Nokia G60                         | APO          | ?             | ?            | apollo          | 106              | No                    |
+| Nokia T10                         | PGN          | ?             | ?            | penguin         | 112              | No                    |
+| Nokia T20                         | RDD          | Emdoor        | ?            | riddler         | 111              | No                    |
+| Nokia T21                         | AGT          | Wingtech      | ?            | agent           | 101              | No                    |
+| Nokia X10                         | SCW          | ?             | ?            | scarletwitch    | 106              | Yes (Prototype ABL)   |
+| Nokia X20                         | QKS          | ?             | ?            | quicksilver     | 106              | No                    |
+| Nokia X30                         | FCN          | Hisense       | N920         | falcon          | 110              | No                    |
+| Nokia X71                         | TAS          | FIH           |              | taishan         | 8                | Yes (UU4)             |
+| Nokia XR20                        | TTG          | Hisense       | N910         | thething        | 110              | Yes (Prototype ABL)   |
+| Nokia XR21                        | SNT          | Hisense       | ?            | sentry          | 110              | No                    |
 
 ## USA exclusive
-| Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version |
-|-----------------------------------|--------------|---------------|--------------|-----------------|------------------|
-| Nokia 2.1 V                       | EVW          | FIH           |              | dynamo2_vzw     | 8                |
-| Nokia 3.1 A & C                   | EAG          | FIH           |              | eagle           | 8                |
-| Nokia 3.1 Plus C                  | RHD          | FIH           |              | radiohead       | 8                |
-| Nokia 3.2 V                       | DPL_VZW      | Wingtech      | T89629       | deadpool_vzw    | 1                |
-| Nokia 8.3 V 5G UW                 | RAV          | Huaqin        | ZQN1876c     | riseagainst     | 3                |
-| Nokia 2780 Flip (KaiOS)           | WND          | FIH           |              | weeknd          | 114              |
-| Nokia C2 Tava / Tennen / 2V Tella | ARC          | Tech Mahindra | ?            | armstrong       | 3                |
-| Nokia C5 Endi                     | PMC          | Tech Mahindra | ?            | paramore        | 3                |
-| Nokia C100                        | DKT          | ?             | ?            | ?               | ?                |
-| Nokia C110                        | DGC          | ?             | ?            | ?               | ?                |
-| Nokia C200                        | DRK          | ?             | ?            | ?               | ?                |
-| Nokia C210                        | ?            | ?             | ?            | ?               | ?                |
-| Nokia C300                        | ORO          | Tinno         | U569         | orion           | 104              |
-| Nokia G100                        | DPT          | Tinno         | V791         | dualipa         | 104 & 201        |
-| Nokia G300                        | AKT          | ?             | ?            | aoki            | 201              |
-| Nokia G310                        | SDT          | ?             | ?            | shadowTMO       | 212              |
-| Nokia G400                        | STM          | Huaqin        | ?            | styles          | 208              |
-| Nokia X100                        | DM5          | ?             | ?            | deadmau5        | 203              |
+| Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable |
+|-----------------------------------|--------------|---------------|--------------|-----------------|------------------|-----------------------|
+| Nokia 2.1 V                       | EVW          | FIH           |              | dynamo2_vzw     | 8                | Yes (UU4)             |
+| Nokia 3.1 A & C                   | EAG          | FIH           |              | eagle           | 8                | Yes (UU4)             |
+| Nokia 3.1 Plus C                  | RHD          | FIH           |              | radiohead       | 8                | Yes (UU4)             |
+| Nokia 3.2 V                       | DPL_VZW      | Wingtech      | T89629       | deadpool_vzw    | 1                | No                    |
+| Nokia 8.3 V 5G UW                 | RAV          | Huaqin        | ZQN1876c     | riseagainst     | 3                | Yes (Prototype ABL)   |
+| Nokia 2780 Flip (KaiOS)           | WND          | FIH           |              | weeknd          | 114              | Yes (Generic)         |
+| Nokia C2 Tava / Tennen / 2V Tella | ARC          | Tech Mahindra | ?            | armstrong       | 3                | Yes (MTKClient)       |
+| Nokia C5 Endi                     | PMC          | Tech Mahindra | ?            | paramore        | 3                | Yes (MTKClient)       |
+| Nokia C100                        | DKT          | ?             | ?            | ?               | ?                | No                    |
+| Nokia C110                        | DGC          | ?             | ?            | ?               | ?                | No                    |
+| Nokia C200                        | DRK          | ?             | ?            | ?               | ?                | No                    |
+| Nokia C210                        | ?            | ?             | ?            | ?               | ?                | No                    |
+| Nokia C300                        | ORO          | Tinno         | U569         | orion           | 104              | No                    |
+| Nokia G100                        | DPT          | Tinno         | V791         | dualipa         | 104 & 201        | No                    |
+| Nokia G300                        | AKT          | ?             | ?            | aoki            | 201              | No                    |
+| Nokia G310                        | SDT          | ?             | ?            | shadowTMO       | 212              | No                    |
+| Nokia G400                        | STM          | Huaqin        | ?            | styles          | 208              | No                    |
+| Nokia X100                        | DM5          | ?             | ?            | deadmau5        | 203              | Yes (Prototype ABL)   |
