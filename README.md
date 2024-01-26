@@ -51,7 +51,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia C12                         | NVA          | ?             | ?            | nova            | ?                |
 | Nokia C2                          | NBL          | Tinno         | K550         | nebula          | 104              |
 | Nokia C2 2nd Edition              | DMN          | ?             | ?            | domino          | 109              |
-| Nokia C20                         | COS          | ?             | ?            | cosmo           | ?                |
+| Nokia C20                         | COS          | ?             | ?            | cosmo           | 109              |
 | Nokia C20 Plus                    | SUS          | Sprocomm      | E6517N       | sirius          | 105              |
 | Nokia C21                         | COR          | ?             | ?            | cosmorefresh    | 109              |
 | Nokia C21 Plus                    | HPE          | Wingtech      | T?????       | hope            | 101              |
@@ -68,7 +68,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia G22                         | SFI          | ?             | ?            | sunfire         | 106              |
 | Nokia G42                         | SDW          | ?             | ?            | shadow          | 106              |
 | Nokia G50                         | PHR          | Tinno         | P660         | punisher        | 104              |
-| Nokia G60                         | APO          | ?             | ?            | apollo          | ?                |
+| Nokia G60                         | APO          | ?             | ?            | apollo          | 106              |
 | Nokia T10                         | PGN          | ?             | ?            | penguin         | 112              |
 | Nokia T20                         | RDD          | Emdoor        | ?            | riddler         | 111              |
 | Nokia T21                         | AGT          | Wingtech      | ?            | agent           | 101              |
@@ -95,7 +95,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia C200                        | DRK          | ?             | ?            | ?               | ?                |
 | Nokia C210                        | ?            | ?             | ?            | ?               | ?                |
 | Nokia C300                        | ORO          | Tinno         | U569         | orion           | 104              |
-| Nokia G100                        | DPT          | ?             | ?            | dualipa         | 201              |
+| Nokia G100                        | DPT          | Tinno         | V791         | dualipa         | 104 & 201        |
 | Nokia G300                        | AKT          | ?             | ?            | aoki            | 201              |
 | Nokia G310                        | SDT          | ?             | ?            | shadowTMO       | 212              |
 | Nokia G400                        | STM          | Huaqin        | ?            | styles          | 208              |
