@@ -65,15 +65,16 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia G11 Plus                    | MGK          | ?             | ?            | magik           | ?                | No                    |
 | Nokia G20                         | RNN          | Wingtech      | T99653       | ronin           | 101              | Yes (MTKClient)       |
 | Nokia G21                         | SCP          | Wingtech      | T?????       | shadowcatplus   | 101              | No                    |
-| Nokia G22                         | SFI          | ?             | ?            | sunfire         | 106              | No                    |
-| Nokia G42                         | SDW          | ?             | ?            | shadow          | 106              | No                    |
+| Nokia G22                         | SFI          | ChinoE (Enok) | S0609        | sunfire         | 106              | No                    |
+| Nokia G22 Plus ?                  | VNM          | ChinoE (Enok) | S0610        | venom           | 106              | No                    |
+| Nokia G42                         | SDW          | ChinoE (Enok) | ?            | shadow          | 106              | No                    |
 | Nokia G50                         | PHR          | Tinno         | P660         | punisher        | 104              | No                    |
-| Nokia G60                         | APO          | ?             | ?            | apollo          | 106              | No                    |
+| Nokia G60                         | APO          | ChinoE (Enok) | ?            | apollo          | 106              | No                    |
 | Nokia T10                         | PGN          | ?             | ?            | penguin         | 112              | No                    |
 | Nokia T20                         | RDD          | Emdoor        | ?            | riddler         | 111              | No                    |
 | Nokia T21                         | AGT          | Wingtech      | ?            | agent           | 101              | No                    |
-| Nokia X10                         | SCW          | ?             | ?            | scarletwitch    | 106              | Yes (Prototype ABL)   |
-| Nokia X20                         | QKS          | ?             | ?            | quicksilver     | 106              | No                    |
+| Nokia X10                         | SCW          | ChinoE (Enok) | ?            | scarletwitch    | 106              | Yes (Prototype ABL)   |
+| Nokia X20                         | QKS          | ChinoE (Enok) | ?            | quicksilver     | 106              | No                    |
 | Nokia X30                         | FCN          | Hisense       | N920         | falcon          | 110              | No                    |
 | Nokia X71                         | TAS          | FIH           |              | taishan         | 8                | Yes (UU4)             |
 | Nokia XR20                        | TTG          | Hisense       | N910         | thething        | 110              | Yes (Prototype ABL)   |
@@ -99,7 +100,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia G300                        | AKT          | ?             | ?            | aoki            | 201              | No                    |
 | Nokia G310                        | SDT          | ?             | ?            | shadowTMO       | 212              | No                    |
 | Nokia G400                        | STM          | Huaqin        | ?            | styles          | 208              | No                    |
-| Nokia X100                        | DM5          | ?             | ?            | deadmau5        | 203              | Yes (Prototype ABL)   |
+| Nokia X100                        | DM5          | ChinoE (Enok) | ?            | deadmau5        | 203              | Yes (Prototype ABL)   |
 
 ## About bootloader unlockable reason
 
