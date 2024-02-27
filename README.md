@@ -72,7 +72,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia G60                         | APO          | ChinoE (Enok) | ?            | apollo          | 106              | No                    |
 | Nokia T10                         | PGN          | ?             | ?            | penguin         | 112              | No                    |
 | Nokia T20                         | RDD          | Emdoor        | ?            | riddler         | 111              | No                    |
-| Nokia T21                         | AGT          | Wingtech      | ?            | agent           | 101              | No                    |
+| Nokia T21                         | AGT          | Wingtech      | P19616       | agent           | 113              | No                    |
 | Nokia X10                         | SCW          | ChinoE (Enok) | ?            | scarletwitch    | 106              | Yes (Prototype ABL)   |
 | Nokia X20                         | QKS          | ChinoE (Enok) | ?            | quicksilver     | 106              | No                    |
 | Nokia X30                         | FCN          | Hisense       | N920         | falcon          | 110              | No                    |
