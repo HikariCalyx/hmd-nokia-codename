@@ -57,14 +57,14 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia C21 Plus                    | HPE          | Wingtech      | T?????       | hope            | 101              | No                    |
 | Nokia C22                         | HKE          | Sprocomm      | E????N       | hawkeye         | 105              | No                    |
 | Nokia C3                          | GMR          | Sprocomm      | E6005N       | gamoraplus      | 105              | No                    |
-| Nokia C30                         | MNR          | ?             | ?            | monster         | 109              | No                    |
+| Nokia C30                         | MNR          | ?             | SE681        | monster         | 109              | No                    |
 | Nokia C31                         | VSI          | Wingtech      | T19681       | vision          | 101              | No                    |
 | Nokia C32                         | MKD          | Sprocomm      | E6546N       | mockingbird     | 105              | No                    |
 | Nokia G10                         | ROG          | Wingtech      | T99652       | rogue           | 101              | Yes (MTKClient)       |
 | Nokia G11                         | SCT          | ?             | ?            | shadowcat       | ?                | No                    |
 | Nokia G11 Plus                    | MGK          | ?             | ?            | magik           | ?                | No                    |
 | Nokia G20                         | RNN          | Wingtech      | T99653       | ronin           | 101              | Yes (MTKClient)       |
-| Nokia G21                         | SCP          | Wingtech      | T19655       | shadowcatplus   | 101              | No                    |
+| Nokia G21                         | SCP          | Wingtech      | T19655       | shadowcatplus   | 101              | Yes (CVE-2022-38694)  |
 | Nokia G22                         | SFI          | ChinoE (Enok) | S0609        | sunfire         | 106              | No                    |
 | Nokia G22 Plus ?                  | VNM          | ChinoE (Enok) | S0610        | venom           | 106              | No                    |
 | Nokia G42                         | SDW          | ChinoE (Enok) | ?            | shadow          | 106              | No                    |
@@ -96,8 +96,8 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia C200                        | DRK          | ?             | ?            | ?               | ?                | No                    |
 | Nokia C210                        | ?            | ?             | ?            | ?               | ?                | No                    |
 | Nokia C300                        | ORO          | Tinno         | U569         | orion           | 104              | No                    |
-| Nokia G100                        | DPT          | Tinno         | V791         | dualipa         | 104 & 201        | No                    |
-| Nokia G300                        | AKT          | ?             | ?            | aoki            | 201              | No                    |
+| Nokia G100                        | DPT          | Tinno         | V791         | dualipa         | 104 & 201        | Yes (Prototype ABL)   |
+| Nokia G300                        | AKT          | ?             | ?            | aoki            | 201              | Yes (Prototype ABL)   |
 | Nokia G310                        | SDT          | ?             | ?            | shadowTMO       | 212              | No                    |
 | Nokia G400                        | STM          | Huaqin        | ?            | styles          | 208              | No                    |
 | Nokia X100                        | DM5          | ChinoE (Enok) | ?            | deadmau5        | 203              | Yes (Prototype ABL)   |
@@ -105,8 +105,9 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 ## About bootloader unlockable reason
 
 - UU4: HCTSW Care Unlock Utility 4 available on https://hikaricalyx.com/request-bootloader-unlock
-- Prototype ABOOT or ABL: Bootloer will become unlockable after utilize the prototype ABOOT or ABL image available on https://fih-firmware.hikaricalyx.com/protoabl
+- Prototype ABOOT or ABL: Bootloader will become unlockable after utilize the prototype ABOOT or ABL image available on https://fih-firmware.hikaricalyx.com/protoabl
 - MTK Generic: ```fastboot oem key [md5_checksum_of_your_psn]```, then ```fastboot flashing unlock```
 - MTKClient: This tool is available on https://github.com/bkerler/mtkclient
-- Generic: Enabling OEM Unlocking in developer options (or write 0x01 at last byte of config/frp partition), then bootloader will become unlockable. 
+- Generic: Enabling OEM Unlocking in developer options (or write 0x01 at last byte of config/frp partition), then bootloader will become unlockable.
+- CVE-2022-38694: See https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader
 - No: No known methods available for bootloader unlock yet.
