@@ -48,7 +48,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia C1 2nd Edition              | IRU          | ?             | ?            | irisumts        | ?                | No                    |
 | Nokia C1 Plus                     | YDU          | Sprocomm      | E5531N       | yondu           | 105              | No                    |
 | Nokia C10                         | MNT          | ?             | ?            | mantis          | 109              | No                    |
-| Nokia C12                         | NVA          | ?             | ?            | nova            | ?                | No                    |
+| Nokia C12                         | NVA          | ?             | ?            | nova            | 109              | No                    |
 | Nokia C2                          | NBL          | Tinno         | K550         | nebula          | 104              | No                    |
 | Nokia C2 2nd Edition              | DMN          | ?             | ?            | domino          | 109              | No                    |
 | Nokia C20                         | COS          | ?             | ?            | cosmo           | 109              | No                    |
