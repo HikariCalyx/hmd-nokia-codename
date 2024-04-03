@@ -62,7 +62,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia C32                         | MKD          | Sprocomm      | E6546N       | mockingbird     | 105              | No                    |
 | Nokia G10                         | ROG          | Wingtech      | T99652       | rogue           | 101              | Yes (MTKClient)       |
 | Nokia G11                         | SCT          | ?             | ?            | shadowcat       | ?                | No                    |
-| Nokia G11 Plus                    | MGK          | ?             | ?            | magik           | ?                | No                    |
+| Nokia G11 Plus                    | MGK          | ?             | ?            | magik           | 109              | No                    |
 | Nokia G20                         | RNN          | Wingtech      | T99653       | ronin           | 101              | Yes (MTKClient)       |
 | Nokia G21                         | SCP          | Wingtech      | T19655       | shadowcatplus   | 101              | Yes (CVE-2022-38694)  |
 | Nokia G22                         | SFI          | ChinoE (Enok) | S0609        | sunfire         | 106              | No                    |
