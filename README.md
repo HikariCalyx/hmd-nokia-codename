@@ -45,7 +45,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia C01 Plus                    | IRS          | Wingtech      | T19545       | iris            | 101              | No                    |
 | Nokia C02                         | CYR          | Sprocomm      | E????N       | cypher          | 105              | No                    |
 | Nokia C1                          | RKU          | Tinno         | K150         | rocket          | 2                | No                    |
-| Nokia C1 2nd Edition              | IRU          | ?             | ?            | irisumts        | ?                | No                    |
+| Nokia C1 2nd Edition              | IRU          | Wingtech      | T18546       | irisumts        | 101              | No                    |
 | Nokia C1 Plus                     | YDU          | Sprocomm      | E5531N       | yondu           | 105              | No                    |
 | Nokia C10                         | MNT          | ?             | ?            | mantis          | 109              | No                    |
 | Nokia C12 / 120-4G                | NVA          | ?             | ?            | nova            | 109              | No                    |
