@@ -91,7 +91,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia 2780 Flip (KaiOS)           | WND          | FIH           |              | weeknd          | 114              | Yes (Generic)         |
 | Nokia C2 Tava / Tennen / 2V Tella | ARC          | Tech Mahindra | ?            | armstrong       | 3                | Yes (MTKClient)       |
 | Nokia C5 Endi                     | PMC          | Tech Mahindra | ?            | paramore        | 3                | Yes (MTKClient)       |
-| Nokia C100                        | DKT          | ?             | ?            | ?               | ?                | No                    |
+| Nokia C100                        | DKT          | Tinno         | V590         | ?               | 205              | No                    |
 | Nokia C110                        | DGC          | ?             | ?            | ?               | ?                | No                    |
 | Nokia C200                        | DRK          | ?             | ?            | ?               | ?                | No                    |
 | Nokia C210                        | ?            | ?             | ?            | ?               | ?                | No                    |
