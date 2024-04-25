@@ -79,6 +79,9 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia X71                         | TAS          | FIH           |              | taishan         | 8                | Yes (UU4)             |
 | Nokia XR20                        | TTG          | Hisense       | N910         | thething        | 110              | Yes (Prototype ABL)   |
 | Nokia XR21                        | SNT          | Hisense       | ?            | sentry          | 110              | No                    |
+| HMD Pulse                         | ?            | ?             | ?            | ?               | ?                | No                    |
+| HMD Pulse+                        | ?            | ?             | ?            | ?               | ?                | No                    |
+| HMD Pulse Pro                     | ?            | ?             | ?            | ?               | ?                | No                    |
 
 ## USA exclusive
 | Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable |
