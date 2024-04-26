@@ -1,7 +1,8 @@
 # hmd-nokia-codename
 Codename of HMD Nokia Android Smartphones / Tablets.
 
-## ROW models
+## Nokia Brand
+### ROW models
 | Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable |
 |-----------------------------------|--------------|---------------|--------------|-----------------|------------------|-----------------------|
 | Nokia 1                           | FRT          | FIH           |              | frontier        | 4                | Yes (MTK Generic)     |
@@ -79,11 +80,8 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia X71                         | TAS          | FIH           |              | taishan         | 8                | Yes (UU4)             |
 | Nokia XR20                        | TTG          | Hisense       | N910         | thething        | 110              | Yes (Prototype ABL)   |
 | Nokia XR21                        | SNT          | Hisense       | ?            | sentry          | 110              | No                    |
-| HMD Pulse                         | ?            | ?             | ?            | ?               | ?                | No                    |
-| HMD Pulse+                        | ?            | ?             | ?            | ?               | ?                | No                    |
-| HMD Pulse Pro                     | ?            | ?             | ?            | ?               | ?                | No                    |
 
-## USA exclusive
+### USA exclusive
 | Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable |
 |-----------------------------------|--------------|---------------|--------------|-----------------|------------------|-----------------------|
 | Nokia 2.1 V                       | EVW          | FIH           |              | dynamo2_vzw     | 8                | Yes (UU4)             |
@@ -105,6 +103,16 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia G400 (TracFone)             | STF          | Huaqin        | QN6170A      | stylesTracFone  | 207              | Yes (Prototype ABL)   |
 | Nokia G400 (T-Mobile)             | STM          | Huaqin        | QN6170A      | stylesTMO       | 208              | Yes (Prototype ABL)   |
 | Nokia X100                        | DM5          | ChinoE (Enok) | ?            | deadmau5        | 203              | Yes (Prototype ABL)   |
+
+## HMD Brand
+### ROW Models
+| Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable |
+|-----------------------------------|--------------|---------------|--------------|-----------------|------------------|-----------------------|
+| HMD Pulse                         | ?            | ?             | ?            | ?               | ?                | No                    |
+| HMD Pulse+                        | ?            | ?             | ?            | ?               | ?                | No                    |
+| HMD Pulse Pro                     | ?            | ?             | ?            | ?               | ?                | No                    |
+| HMD Vibe                          | ?            | ?             | ?            | ?               | ?                | No                    |
+
 
 ## About bootloader unlockable reason
 
