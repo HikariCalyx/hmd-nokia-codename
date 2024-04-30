@@ -110,9 +110,9 @@ The base SKUID of HMD's own brand smartphones is 100WW instead of 600WW.
 ### ROW models
 | Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable |
 |-----------------------------------|--------------|---------------|--------------|-----------------|------------------|-----------------------|
-| HMD Pulse                         | LGD          | ?             | ?            | Legend          | ?                | No                    |
-| HMD Pulse+                        | ?            | ?             | ?            | ?               | ?                | No                    |
-| HMD Pulse Pro                     | ?            | ?             | ?            | LegendPro       | ?                | No                    |
+| HMD Pulse                         | LGD          | ?             | ?            | Legend          | 109              | No                    |
+| HMD Pulse+                        | LGP          | ?             | ?            | LegendPlus      | 109              | No                    |
+| HMD Pulse Pro                     | LGR          | ?             | ?            | LegendPro       | 109              | No                    |
 
 ### USA exclusive
 | Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable |
