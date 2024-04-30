@@ -107,14 +107,17 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 ## HMD Brand
 The base SKUID of HMD's own brand smartphones is 100WW instead of 600WW.
 
-### ROW Models
+### ROW models
 | Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable |
 |-----------------------------------|--------------|---------------|--------------|-----------------|------------------|-----------------------|
 | HMD Pulse                         | LGD          | ?             | ?            | Legend          | ?                | No                    |
 | HMD Pulse+                        | ?            | ?             | ?            | ?               | ?                | No                    |
 | HMD Pulse Pro                     | ?            | ?             | ?            | LegendPro       | ?                | No                    |
-| HMD Vibe                          | ?            | ?             | ?            | ?               | ?                | No                    |
 
+### USA exclusive
+| Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable |
+|-----------------------------------|--------------|---------------|--------------|-----------------|------------------|-----------------------|
+| HMD Vibe                          | ?            | ?             | ?            | ?               | ?                | No                    |
 
 ## About bootloader unlockable reason
 
