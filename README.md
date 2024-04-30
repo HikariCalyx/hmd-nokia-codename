@@ -60,7 +60,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia C3                          | GMR          | Sprocomm      | E6005N       | gamoraplus      | 105              | No                    |
 | Nokia C30                         | MNR          | MobiWire      | SE681        | monster         | 109              | No                    |
 | Nokia C31                         | VSI          | Wingtech      | T19681       | vision          | 101              | No                    |
-| Nokia C32                         | MKD          | Sprocomm      | E6546N       | mockingbird     | 105              | No                    |
+| Nokia C32 / M-Kopa X1             | MKD          | Sprocomm      | E6546N       | mockingbird     | 105              | No                    |
 | Nokia G10                         | ROG          | Wingtech      | T99652       | rogue           | 101              | Yes (MTKClient)       |
 | Nokia G11                         | SCT          | ?             | ?            | shadowcat       | ?                | No                    |
 | Nokia G11 Plus                    | MGK          | MobiWire      | ?            | magik           | 109              | No                    |
@@ -110,9 +110,9 @@ The base SKUID of HMD's own brand smartphones is 100WW instead of 600WW.
 ### ROW models
 | Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable |
 |-----------------------------------|--------------|---------------|--------------|-----------------|------------------|-----------------------|
-| HMD Pulse                         | LGD          | MobiWire      | ?            | Legend          | 109              | No                    |
+| HMD Pulse / M-Kopa X2             | LGD          | MobiWire      | ?            | Legend          | 109              | No                    |
 | HMD Pulse+                        | LGP          | MobiWire      | ?            | LegendPlus      | 109              | No                    |
-| HMD Pulse Pro                     | LGR          | MobiWire      | ?            | LegendPro       | 109              | No                    |
+| HMD Pulse Pro / M-Kopa X20        | LGR          | MobiWire      | ?            | LegendPro       | 109              | No                    |
 
 ### USA exclusive
 | Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable |
