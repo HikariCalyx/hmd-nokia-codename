@@ -108,7 +108,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 ### ROW Models
 | Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable |
 |-----------------------------------|--------------|---------------|--------------|-----------------|------------------|-----------------------|
-| HMD Pulse                         | ?            | ?             | ?            | Legend          | ?                | No                    |
+| HMD Pulse                         | LGD          | ?             | ?            | Legend          | ?                | No                    |
 | HMD Pulse+                        | ?            | ?             | ?            | ?               | ?                | No                    |
 | HMD Pulse Pro                     | ?            | ?             | ?            | LegendPro       | ?                | No                    |
 | HMD Vibe                          | ?            | ?             | ?            | ?               | ?                | No                    |
