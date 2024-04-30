@@ -105,6 +105,8 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia X100                        | DM5          | ChinoE (Enok) | ?            | deadmau5        | 203              | Yes (Prototype ABL)   |
 
 ## HMD Brand
+The base SKUID of HMD's own brand smartphones is 100WW instead of 600WW.
+
 ### ROW Models
 | Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable |
 |-----------------------------------|--------------|---------------|--------------|-----------------|------------------|-----------------------|
