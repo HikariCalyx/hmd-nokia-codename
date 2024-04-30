@@ -48,22 +48,22 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia C1                          | RKU          | Tinno         | K150         | rocket          | 2                | No                    |
 | Nokia C1 2nd Edition              | IRU          | Wingtech      | T18546       | irisumts        | 101              | No                    |
 | Nokia C1 Plus                     | YDU          | Sprocomm      | E5531N       | yondu           | 105              | No                    |
-| Nokia C10                         | MNT          | ?             | ?            | mantis          | 109              | No                    |
-| Nokia C12 / 120-4G                | NVA          | ?             | ?            | nova            | 109              | No                    |
+| Nokia C10                         | MNT          | MobiWire      | ?            | mantis          | 109              | No                    |
+| Nokia C12 / 120-4G                | NVA          | MobiWire      | ?            | nova            | 109              | No                    |
 | Nokia C2                          | NBL          | Tinno         | K550         | nebula          | 104              | No                    |
-| Nokia C2 2nd Edition              | DMN          | ?             | ?            | domino          | 109              | No                    |
-| Nokia C20                         | COS          | ?             | ?            | cosmo           | 109              | No                    |
+| Nokia C2 2nd Edition              | DMN          | MobiWire      | ?            | domino          | 109              | No                    |
+| Nokia C20                         | COS          | MobiWire      | ?            | cosmo           | 109              | No                    |
 | Nokia C20 Plus                    | SUS          | Sprocomm      | E6517N       | sirius          | 105              | No                    |
-| Nokia C21                         | COR          | ?             | ?            | cosmorefresh    | 109              | No                    |
+| Nokia C21                         | COR          | MobiWire      | ?            | cosmorefresh    | 109              | No                    |
 | Nokia C21 Plus                    | HPE          | Wingtech      | T?????       | hope            | 101              | No                    |
 | Nokia C22                         | HKE          | Sprocomm      | E????N       | hawkeye         | 105              | No                    |
 | Nokia C3                          | GMR          | Sprocomm      | E6005N       | gamoraplus      | 105              | No                    |
-| Nokia C30                         | MNR          | ?             | SE681        | monster         | 109              | No                    |
+| Nokia C30                         | MNR          | MobiWire      | SE681        | monster         | 109              | No                    |
 | Nokia C31                         | VSI          | Wingtech      | T19681       | vision          | 101              | No                    |
 | Nokia C32                         | MKD          | Sprocomm      | E6546N       | mockingbird     | 105              | No                    |
 | Nokia G10                         | ROG          | Wingtech      | T99652       | rogue           | 101              | Yes (MTKClient)       |
 | Nokia G11                         | SCT          | ?             | ?            | shadowcat       | ?                | No                    |
-| Nokia G11 Plus                    | MGK          | ?             | ?            | magik           | 109              | No                    |
+| Nokia G11 Plus                    | MGK          | MobiWire      | ?            | magik           | 109              | No                    |
 | Nokia G20                         | RNN          | Wingtech      | T99653       | ronin           | 101              | Yes (MTKClient)       |
 | Nokia G21                         | SCP          | Wingtech      | T19655       | shadowcatplus   | 101              | Yes (CVE-2022-38694)  |
 | Nokia G22                         | SFI          | ChinoE (Enok) | S0609        | sunfire         | 106              | No                    |
@@ -110,9 +110,9 @@ The base SKUID of HMD's own brand smartphones is 100WW instead of 600WW.
 ### ROW models
 | Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable |
 |-----------------------------------|--------------|---------------|--------------|-----------------|------------------|-----------------------|
-| HMD Pulse                         | LGD          | ?             | ?            | Legend          | 109              | No                    |
-| HMD Pulse+                        | LGP          | ?             | ?            | LegendPlus      | 109              | No                    |
-| HMD Pulse Pro                     | LGR          | ?             | ?            | LegendPro       | 109              | No                    |
+| HMD Pulse                         | LGD          | MobiWire      | ?            | Legend          | 109              | No                    |
+| HMD Pulse+                        | LGP          | MobiWire      | ?            | LegendPlus      | 109              | No                    |
+| HMD Pulse Pro                     | LGR          | MobiWire      | ?            | LegendPro       | 109              | No                    |
 
 ### USA exclusive
 | Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable |
