@@ -56,7 +56,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia C20 Plus                    | SUS          | Sprocomm      | E6517N       | sirius          | 105              | No                    |
 | Nokia C21                         | COR          | MobiWire      | ?            | cosmorefresh    | 109              | No                    |
 | Nokia C21 Plus                    | HPE          | Wingtech      | T?????       | hope            | 101              | No                    |
-| Nokia C22                         | HKE          | Sprocomm      | E????N       | hawkeye         | 105              | No                    |
+| Nokia C22                         | HKE          | Sprocomm      | E6546N       | hawkeye         | 105              | No                    |
 | Nokia C3                          | GMR          | Sprocomm      | E6005N       | gamoraplus      | 105              | No                    |
 | Nokia C30                         | MNR          | MobiWire      | SE681        | monster         | 109              | No                    |
 | Nokia C31                         | VSI          | Wingtech      | T19681       | vision          | 101              | No                    |
@@ -70,11 +70,11 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia G22 Plus ?                  | VNM          | ChinoE (Enok) | S0610        | venom           | 106              | No                    |
 | Nokia G42                         | SDW          | ChinoE (Enok) | ?            | shadow          | 106              | No                    |
 | Nokia G50                         | PHR          | Tinno         | P660         | punisher        | 104              | No                    |
-| Nokia G60                         | APO          | ChinoE (Enok) | ?            | apollo          | 106              | No                    |
+| Nokia G60                         | APO          | ChinoE (Enok) | Q7505        | apollo          | 106              | No                    |
 | Nokia T10                         | PGN          | ?             | ?            | penguin         | 112              | No                    |
 | Nokia T20                         | RDD          | Emdoor        | ?            | riddler         | 111              | No                    |
 | Nokia T21                         | AGT          | Wingtech      | P19616       | agent           | 113              | No                    |
-| Nokia X10                         | SCW          | ChinoE (Enok) | ?            | scarletwitch    | 106              | Yes (Prototype ABL)   |
+| Nokia X10                         | SCW          | ChinoE (Enok) | SCALT        | scarletwitch    | 106              | Yes (Prototype ABL)   |
 | Nokia X20                         | QKS          | ChinoE (Enok) | ?            | quicksilver     | 106              | No                    |
 | Nokia X30                         | FCN          | Hisense       | N920         | falcon          | 110              | No                    |
 | Nokia X71                         | TAS          | FIH           |              | taishan         | 8                | Yes (UU4)             |
@@ -102,7 +102,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia G310                        | SDT          | ?             | ?            | shadowTMO       | 212              | Yes (Prototype ABL)   |
 | Nokia G400 (TracFone)             | STF          | Huaqin        | QN6170A      | stylesTracFone  | 207              | Yes (Prototype ABL)   |
 | Nokia G400 (T-Mobile)             | STM          | Huaqin        | QN6170A      | stylesTMO       | 208              | Yes (Prototype ABL)   |
-| Nokia X100                        | DM5          | ChinoE (Enok) | ?            | deadmau5        | 203              | Yes (Prototype ABL)   |
+| Nokia X100                        | DM5          | ChinoE (Enok) | DDMAU        | deadmau5        | 203              | Yes (Prototype ABL)   |
 
 ## HMD Brand
 The base SKUID of HMD's own brand smartphones is 100WW instead of 600WW.
