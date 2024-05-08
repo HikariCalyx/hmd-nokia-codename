@@ -93,7 +93,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia C2 Tava / Tennen / 2V Tella | ARC          | Tech Mahindra | ?            | armstrong       | 3                | Yes (MTKClient)       |
 | Nokia C5 Endi                     | PMC          | Tech Mahindra | ?            | paramore        | 3                | Yes (MTKClient)       |
 | Nokia C100                        | DKT          | Tinno         | V590         | drakelite       | 205              | No                    |
-| Nokia C110                        | DGC          | ?             | ?            | ?               | ?                | No                    |
+| Nokia C110                        | DGC          | Tinno         | U502         | ?               | ?                | No                    |
 | Nokia C200                        | DRK          | ?             | ?            | drake           | ?                | No                    |
 | Nokia C210                        | ?            | ?             | ?            | raven           | ?                | No                    |
 | Nokia C300                        | ORO          | Tinno         | U569         | orion           | 104              | No                    |
