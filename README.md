@@ -93,7 +93,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia C2 Tava / Tennen / 2V Tella | ARC          | Tech Mahindra | ?            | armstrong       | 3                | Yes (MTKClient)       |
 | Nokia C5 Endi                     | PMC          | Tech Mahindra | ?            | paramore        | 3                | Yes (MTKClient)       |
 | Nokia C100                        | DKT          | Tinno         | V590         | drakelite       | 205              | No                    |
-| Nokia C110                        | DGC          | Tinno         | U502         | ?               | ?                | No                    |
+| Nokia C110                        | DGF          | Tinno         | U502         | dragonFone      | ?                | No                    |
 | Nokia C200                        | DRK          | ?             | ?            | drake           | ?                | No                    |
 | Nokia C210                        | ?            | ?             | ?            | raven           | ?                | No                    |
 | Nokia C300                        | ORO          | Tinno         | U569         | orion           | 104              | No                    |
@@ -110,6 +110,7 @@ The base SKUID of HMD's own brand smartphones is 100WW instead of 600WW.
 ### ROW models
 | Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable |
 |-----------------------------------|--------------|---------------|--------------|-----------------|------------------|-----------------------|
+| HMD Arrow                         | ?            | ?             | ?            | ?               | ?                | No                    |
 | HMD Pulse / M-Kopa X2             | LGD          | MobiWire      | ?            | Legend          | 109              | No                    |
 | HMD Pulse+                        | LGP          | MobiWire      | ?            | LegendPlus      | 109              | No                    |
 | HMD Pulse Pro / M-Kopa X20        | LGR          | MobiWire      | ?            | LegendPro       | 109              | No                    |
