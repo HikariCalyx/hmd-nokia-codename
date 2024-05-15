@@ -90,7 +90,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia 3.2 V                       | DPL_VZW      | Wingtech      | T89629       | deadpool_vzw    | 1                | No                    |
 | Nokia 8.3 V 5G UW                 | RAV          | Huaqin        | ZQN1876c     | riseagainst     | 3                | Yes (Prototype ABL)   |
 | Nokia 2780 Flip (KaiOS)           | WND          | FIH           |              | weeknd          | 114              | Yes (Generic)         |
-| Nokia C2 Tava / Tennen / 2V Tella | ARC          | Tech Mahindra | ?            | armstrong       | 3                | Yes (MTKClient)       |
+| Nokia C2 Tava / Tennen / 2V Tella | ARC          | Wingtech      | ?            | armstrong       | 3                | Yes (MTKClient)       |
 | Nokia C5 Endi                     | PMC          | Tech Mahindra | ?            | paramore        | 3                | Yes (MTKClient)       |
 | Nokia C100                        | DKT          | Tinno         | V590         | drakelite       | 205              | No                    |
 | Nokia C110                        | DGF          | Tinno         | U502         | dragonFone      | ?                | No                    |
