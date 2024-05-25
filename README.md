@@ -55,7 +55,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia C20                         | COS          | MobiWire      | ?            | cosmo           | 109              | No                    |
 | Nokia C20 Plus                    | SUS          | Sprocomm      | E6517N       | sirius          | 105              | No                    |
 | Nokia C21                         | COR          | MobiWire      | ?            | cosmorefresh    | 109              | No                    |
-| Nokia C21 Plus                    | HPE          | Wingtech      | T?????       | hope            | 101              | No                    |
+| Nokia C21 Plus                    | HPE          | Wingtech      | T19661       | hope            | 101              | No                    |
 | Nokia C22                         | HKE          | Sprocomm      | E6546N       | hawkeye         | 105              | No                    |
 | Nokia C3                          | GMR          | Sprocomm      | E6005N       | gamoraplus      | 105              | No                    |
 | Nokia C30                         | MNR          | MobiWire      | SE681        | monster         | 109              | No                    |
