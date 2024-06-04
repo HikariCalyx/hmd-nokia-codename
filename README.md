@@ -118,8 +118,8 @@ The base SKUID of HMD's own brand smartphones is 100WW instead of 600WW.
 ### USA exclusive
 | Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable |
 |-----------------------------------|--------------|---------------|--------------|-----------------|------------------|-----------------------|
-| HMD Vibe                          | ?            | ?             | ?            | ?               | ?                | No                    |
-| HMD Vibe (TracFone)               | ?            | ?             | ?            | ?               | ?                | No                    |
+| HMD Vibe                          | SHK          | ?             | ?            | Seahawk         | ?                | No                    |
+| HMD Vibe (TracFone)               | SHK          | ?             | ?            | Seahawk         | ?                | Yes (Prototype ABL)   |
 
 ## About bootloader unlockable reason
 
