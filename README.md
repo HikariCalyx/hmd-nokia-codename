@@ -1,6 +1,10 @@
 # hmd-nokia-codename
 Codename of HMD Nokia Android Smartphones / Tablets.
 
+## About Security Versions
+Security Version 4, 8 and 9 are used by OST LA only.
+Security Version 1, 2, 3, 1xx, 2xx are used by HDK only.
+
 ## Nokia Brand
 ### ROW models
 | Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable |
