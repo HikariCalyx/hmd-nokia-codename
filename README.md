@@ -94,7 +94,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia C5 Endi                     | PMC          | Tech Mahindra | ?            | paramore        | 3                | Yes (MTKClient)       |
 | Nokia C100                        | DKT          | Tinno         | V590         | drakelite       | 205              | No                    |
 | Nokia C110                        | DGF          | Tinno         | U502         | dragonFone      | 211              | No                    |
-| Nokia C200                        | DRK          | ?             | ?            | drake           | ?                | No                    |
+| Nokia C200                        | DRK          | ?             | ?            | drake           | 204              | No                    |
 | Nokia C210                        | RVT          | ChinoE (Enok) | SQ611        | raven           | 213              | No                    |
 | Nokia C300                        | ORO          | Tinno         | U569         | orion           | 104              | No                    |
 | Nokia C300 (TracFone)             | ORT          | Tinno         | U569         | orionTracfone   | 201              | No                    |
@@ -122,6 +122,14 @@ For Phones and Tablets that released in both brands (XR21 and T21), SKUID used i
 |-----------------------------------|--------------|---------------|--------------|-----------------|------------------|-----------------------|
 | HMD Vibe                          | SHK          | ?             | ?            | Seahawk         | ?                | No                    |
 | HMD Vibe (TracFone)               | SHK          | ?             | ?            | Seahawk         | 214              | Yes (Prototype ABL)   |
+
+## About USA model operator code
+00US: non-operator variant
+01US: AT&T
+02US: TracFone
+04US: T-Mobile/Metro
+0CUS: Cricket
+1KWW, 00VZW, 00VPO: Verizon
 
 ## About bootloader unlockable reason
 
