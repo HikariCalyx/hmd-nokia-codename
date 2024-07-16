@@ -107,6 +107,7 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 
 ## HMD Brand
 The base SKUID of HMD's own brand smartphones is 100WW instead of 600WW.
+For Phones and Tablets that released in both brands (XR21 and T21), SKUID used in HMD brand variation are 1HMWW or 1HMEEA.
 
 ### ROW models
 | Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable |
