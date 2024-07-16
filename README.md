@@ -95,12 +95,12 @@ Codename of HMD Nokia Android Smartphones / Tablets.
 | Nokia C100                        | DKT          | Tinno         | V590         | drakelite       | 205              | No                    |
 | Nokia C110                        | DGF          | Tinno         | U502         | dragonFone      | ?                | No                    |
 | Nokia C200                        | DRK          | ?             | ?            | drake           | ?                | No                    |
-| Nokia C210                        | ?            | ?             | ?            | raven           | ?                | No                    |
+| Nokia C210                        | RVT          | ChinoE (Enok) | ?            | raven           | 213              | No                    |
 | Nokia C300                        | ORO          | Tinno         | U569         | orion           | 104              | No                    |
 | Nokia C300 (TracFone)             | ORT          | Tinno         | U569         | orionTracfone   | 201              | No                    |
 | Nokia G100                        | DPT          | Tinno         | V791         | dualipa         | 104 & 201        | Yes (Prototype ABL)   |
 | Nokia G300                        | AKT          | ?             | ?            | aoki            | 201              | Yes (Prototype ABL)   |
-| Nokia G310                        | SDT          | ?             | ?            | shadowTMO       | 212              | Yes (Prototype ABL)   |
+| Nokia G310                        | SDT          | ChinoE (Enok) | ?            | shadowTMO       | 212              | Yes (Prototype ABL)   |
 | Nokia G400 (TracFone)             | STF          | Huaqin        | QN6170A      | stylesTracFone  | 207              | Yes (Prototype ABL)   |
 | Nokia G400 (T-Mobile)             | STM          | Huaqin        | QN6170A      | stylesTMO       | 208              | Yes (Prototype ABL)   |
 | Nokia X100                        | DM5          | ChinoE (Enok) | DDMAU        | deadmau5        | 203              | Yes (Prototype ABL)   |
