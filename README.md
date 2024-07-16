@@ -124,12 +124,12 @@ For Phones and Tablets that released in both brands (XR21 and T21), SKUID used i
 | HMD Vibe (TracFone)               | SHK          | ?             | ?            | Seahawk         | 214              | Yes (Prototype ABL)   |
 
 ## About USA model operator code
-00US: non-operator variant
-01US: AT&T
-02US: TracFone
-04US: T-Mobile/Metro
-0CUS: Cricket
-1KWW, 00VZW, 00VPO: Verizon
+- 00US: non-operator variant
+- 01US: AT&T
+- 02US: TracFone
+- 04US: T-Mobile/Metro
+- 0CUS: Cricket
+- 1KWW, 00VZW, 00VPO: Verizon
 
 ## About bootloader unlockable reason
 
