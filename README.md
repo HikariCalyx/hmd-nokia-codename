@@ -117,6 +117,7 @@ For Phones and Tablets that released in both brands (XR21 and T21), SKUID used i
 | Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable |
 |-----------------------------------|--------------|---------------|--------------|-----------------|------------------|-----------------------|
 | HMD Aura                          | RCK          | ?             | ?            | Rocky           | ?                | No                    |
+| HMD Crest                         | ARW          | ?             | ?            | Arrow           | ?                | No                    |
 | HMD Pulse / M-Kopa X2             | LGD          | MobiWire      | ?            | Legend          | 109              | No                    |
 | HMD Pulse+                        | LGP          | MobiWire      | ?            | LegendPlus      | 109              | No                    |
 | HMD Pulse Pro / M-Kopa X20        | LGR          | MobiWire      | ?            | LegendPro       | 109              | No                    |
