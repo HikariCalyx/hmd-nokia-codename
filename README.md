@@ -60,7 +60,7 @@ Security Version 1, 4, 8 and 9 are used by OST LA only if ODM is FIH. Security V
 | Nokia C21                         | COR          | MobiWire      | ?            | cosmorefresh    | 109              | No                    |
 | Nokia C21 Plus                    | HPE          | Wingtech      | T19661       | hope            | 101              | No                    |
 | Nokia C22                         | HKE          | Sprocomm      | E6546N       | hawkeye         | 105              | No                    |
-| Nokia C3                          | GMR          | Sprocomm      | E6005N       | gamoraplus      | 105              | No                    |
+| Nokia C3                          | GMR          | Sprocomm      | E6005N       | gamoraplus      | 105              | Yes (CVE-2022-38694)  |
 | Nokia C30                         | MNR          | MobiWire      | SE681        | monster         | 109              | No                    |
 | Nokia C31                         | VSI          | Wingtech      | T19681       | vision          | 101              | No                    |
 | Nokia C32 / M-Kopa X1             | MKD          | Sprocomm      | E6546N       | mockingbird     | 105              | No                    |
@@ -75,7 +75,7 @@ Security Version 1, 4, 8 and 9 are used by OST LA only if ODM is FIH. Security V
 | Nokia G50                         | PHR          | Tinno         | P660         | punisher        | 104              | No                    |
 | Nokia G60                         | APO          | ChinoE (Enok) | Q7505        | apollo          | 106              | No                    |
 | Nokia T10                         | PGN          | ?             | ?            | penguin         | 112              | No                    |
-| Nokia T20                         | RDD          | Emdoor        | ?            | riddler         | 111              | No                    |
+| Nokia T20                         | RDD          | Emdoor        | ?            | riddler         | 111              | Yes (CVE-2022-38694)  |
 | Nokia T21 / HMD T21               | AGT          | Wingtech      | P19616       | agent           | 113              | No                    |
 | Nokia X10                         | SCW          | ChinoE (Enok) | SCALT        | scarletwitch    | 106              | Yes (Prototype ABL)   |
 | Nokia X20                         | QKS          | ChinoE (Enok) | ?            | quicksilver     | 106              | No                    |
