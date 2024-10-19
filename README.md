@@ -71,7 +71,7 @@ Security Version 1, 4, 8 and 9 are used by OST LA only if ODM is FIH. Security V
 | Nokia G21                         | SCP          | Wingtech      | T19655       | shadowcatplus   | 101              | Yes (CVE-2022-38694)  |
 | Nokia G22                         | SFI          | ChinoE (Enok) | S0609        | sunfire         | 106              | No                    |
 | Nokia G22 Plus ?                  | VNM          | ChinoE (Enok) | S0610        | venom           | 106              | No                    |
-| Nokia G42                         | SDW          | ChinoE (Enok) | ?            | shadow          | 106              | No                    |
+| Nokia G42                         | SDW          | ChinoE (Enok) | Q5003        | shadow          | 106              | No                    |
 | Nokia G50                         | PHR          | Tinno         | P660         | punisher        | 104              | No                    |
 | Nokia G60                         | APO          | ChinoE (Enok) | Q7505        | apollo          | 106              | No                    |
 | Nokia T10                         | PGN          | ?             | ?            | penguin         | 112              | No                    |
