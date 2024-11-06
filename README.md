@@ -92,7 +92,7 @@ Security Version 1, 4, 8 and 9 are used by OST LA only if ODM is FIH. Security V
 | Nokia 3.1 Plus C                  | RHD          | FIH           |              | radiohead       | 8                | Yes (UU4)             |
 | Nokia 3.2 V                       | DPL_VZW      | Wingtech      | T89629       | deadpool_vzw    | 1                | No                    |
 | Nokia 8.3 V 5G UW                 | RAV          | Huaqin        | ZQN1876c     | riseagainst     | 3                | Yes (Prototype ABL)   |
-| Nokia 2760 Flip (TracFone, KaiOS) | ?            | FIH           |              | ?               | ?                | Yes (Generic)         |
+| Nokia 2760 Flip (TracFone, KaiOS) | WND_TF       | FIH           |              | weeknd_tracfone | 202              | Yes (Generic)         |
 | Nokia 2780 Flip (KaiOS)           | WND          | FIH           |              | weeknd          | 114              | Yes (Generic)         |
 | Nokia C2 Tava / Tennen / 2V Tella | ARC          | Wingtech      | ?            | armstrong       | 3                | Yes (MTKClient)       |
 | Nokia C5 Endi                     | PMC          | Tech Mahindra | ?            | paramore        | 3                | Yes (MTKClient)       |
