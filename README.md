@@ -127,7 +127,7 @@ For Phones and Tablets that released in both brands (XR21 and T21), SKUID used i
 ### USA exclusive
 | Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable |
 |-----------------------------------|--------------|---------------|--------------|-----------------|------------------|-----------------------|
-| HMD Vibe                          | SHK          | ?             | ?            | Seahawk         | ?                | No                    |
+| HMD Vibe                          | SKO          | ?             | ?            | SeahawkOM       | ?                | No                    |
 | HMD Vibe (TracFone)               | SHK          | ?             | ?            | Seahawk         | 214              | Yes (Prototype ABL)   |
 
 ## About USA model operator code
