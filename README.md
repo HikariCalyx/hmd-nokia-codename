@@ -122,7 +122,7 @@ For Phones and Tablets that released in both brands (XR21 and T21), SKUID used i
 | HMD Pulse / M-Kopa X2             | LGD          | MobiWire      | GH6671       | Legend          | 109              | No                    |
 | HMD Pulse+                        | LGP          | MobiWire      | GH6671P      | LegendPlus      | 109              | No                    |
 | HMD Pulse Pro / M-Kopa X20        | LGR          | MobiWire      | GH6672       | LegendPro       | 109              | No                    |
-| HMD Skyline                       | TCT          | Huaqin        | ZRK0461      | Tomcat          | 102              | No                    |
+| HMD Skyline                       | TCT          | Huaqin        | QN7026A      | Tomcat          | 102              | No                    |
 
 ### USA exclusive
 | Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable |
