@@ -135,6 +135,7 @@ For Phones and Tablets that released in both brands (XR21 and T21), SKUID used i
 - 01US: AT&T
 - 02US: TracFone
 - 04US: T-Mobile/Metro
+- 06US: Consumer Cellular
 - 0CUS: Cricket
 - 1KWW, 00VZW, 00VPO: Verizon
 
