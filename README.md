@@ -105,6 +105,7 @@ Security Version 1, 4, 8 and 9 are used by OST LA only if ODM is FIH. Security V
 | Nokia G100                        | DPT          | Tinno         | V791         | dualipa         | 104 & 201        | Yes (Prototype ABL)   |
 | Nokia G300                        | AKT          | ChinoE (Enok) | ?            | aoki            | 201              | Yes (Prototype ABL)   |
 | Nokia G310                        | SDT          | ChinoE (Enok) | Q5003        | shadowTMO       | 212              | Yes (Prototype ABL)   |
+| Nokia G400 (Open Market)          | STO          | Huaqin        | QN6170A      | stylesOpen      | 102              | Yes (Prototype ABL)   |
 | Nokia G400 (TracFone)             | STF          | Huaqin        | QN6170A      | stylesTracFone  | 207              | Yes (Prototype ABL)   |
 | Nokia G400 (T-Mobile)             | STM          | Huaqin        | QN6170A      | stylesTMO       | 208              | Yes (Prototype ABL)   |
 | Nokia X100                        | DM5          | ChinoE (Enok) | DDMAU        | deadmau5        | 203              | Yes (Prototype ABL)   |
@@ -133,7 +134,7 @@ For Phones and Tablets that released in both brands (XR21 and T21), SKUID used i
 | HMD Vibe (TracFone)               | SHK          | ChinoE (Enok) | SQ623        | Seahawk         | 214              | Yes (Prototype ABL)   |
 
 ## About USA model operator code
-- 00US: non-operator variant
+- 00US: non-operator variant, sometimes also for Consumer Cellular
 - 01US: AT&T
 - 02US: TracFone
 - 04US: T-Mobile/Metro
