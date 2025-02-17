@@ -119,7 +119,8 @@ For Phones and Tablets that released in both brands (XR21 and T21), SKUID used i
 |-----------------------------------|--------------|---------------|--------------|-----------------|------------------|-----------------------|
 | HMD Arc                           | NYX          | ?             | ?            | Nyx             | ?                | No                    |
 | HMD Aura                          | RCK          | ?             | ?            | Rocky           | ?                | No                    |
-| HMD Crest                         | ARW          | ?             | ?            | Arrow           | ?                | No                    |
+| HMD Crest                         | ARW          | ChinoE / Enok | SU763        | Arrow           | 106              | No                    |
+| HMD Crest Max                     | ARP          | ChinoE / Enok | SU763        | ArrowPro        | 106              | No                    |
 | HMD Fusion                        | NHK          | ChinoE / Enok | ?            | Nighthawk       | 106              | No                    |
 | HMD Key                           | CMT          | ?             | ?            | Comet           | ?                | No                    |
 | HMD Pulse / M-Kopa X2             | LGD          | MobiWire      | GH6671       | Legend          | 109              | No                    |
