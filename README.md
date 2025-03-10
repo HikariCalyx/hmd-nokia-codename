@@ -74,7 +74,7 @@ Security Version 1, 4, 8 and 9 are used by OST LA only if ODM is FIH. Security V
 | Nokia G42                         | SDW          | ChinoE (Enok) | Q5003        | shadow          | 106              | No                    |
 | Nokia G50                         | PHR          | Tinno         | P660         | punisher        | 104              | Yes (Prototype ABL)   |
 | Nokia G60                         | APO          | ChinoE (Enok) | Q7505        | apollo          | 106              | Yes (Prototype ABL)   |
-| Nokia T10                         | PGN          | ?             | ?            | penguin         | 112              | No                    |
+| Nokia T10                         | PGN          | ?             | FM626_G3     | penguin         | 112              | No                    |
 | Nokia T20                         | RDD          | Emdoor        | ?            | riddler         | 111              | Yes (CVE-2022-38694)  |
 | Nokia T21 / HMD T21               | AGT          | Wingtech      | P19616       | agent           | 113              | No                    |
 | Nokia X10                         | SCW          | ChinoE (Enok) | SCALT        | scarletwitch    | 106              | Yes (Prototype ABL)   |
