@@ -133,6 +133,7 @@ For Phones and Tablets that released in both brands (XR21 and T21), SKUID used i
 |-----------------------------------|--------------|---------------|--------------|-----------------|------------------|-----------------------|
 | HMD Vibe                          | SKO          | ChinoE (Enok) | SQ623        | SeahawkOM       | 106              | No                    |
 | HMD Vibe (TracFone)               | SHK          | ChinoE (Enok) | SQ623        | Seahawk         | 214              | Yes (Prototype ABL)   |
+| HMD Raptor (Cancelled)            | ???          | ChinoE (Enok) | SQ507        | Raptor          | ???              | No                    |
 
 ## About USA model operator code
 - 00US: non-operator variant, sometimes also for Consumer Cellular
