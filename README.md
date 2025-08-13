@@ -70,7 +70,6 @@ Security Version 1, 4, 8 and 9 are used by OST LA only if ODM is FIH. Security V
 | Nokia G20                         | RNN          | Wingtech      | T99653       | ronin           | 101              | Yes (MTKClient)       |
 | Nokia G21                         | SCP          | Wingtech      | T19655       | shadowcatplus   | 101              | Yes (CVE-2022-38694)  |
 | Nokia G22                         | SFI          | ChinoE (Enok) | S0609        | sunfire         | 106              | No                    |
-| Nokia G22 Plus ?                  | VNM          | ChinoE (Enok) | S0610        | venom           | 106              | No                    |
 | Nokia G42                         | SDW          | ChinoE (Enok) | Q5003        | shadow          | 106              | No                    |
 | Nokia G50                         | PHR          | Tinno         | P660         | punisher        | 104              | Yes (Prototype ABL)   |
 | Nokia G60                         | APO          | ChinoE (Enok) | Q7505        | apollo          | 106              | Yes (Prototype ABL)   |
@@ -133,7 +132,13 @@ For Phones and Tablets that released in both brands (XR21 and T21), SKUID used i
 |-----------------------------------|--------------|---------------|--------------|-----------------|------------------|-----------------------|
 | HMD Vibe                          | SKO          | ChinoE (Enok) | SQ623        | SeahawkOM       | 106              | No                    |
 | HMD Vibe (TracFone)               | SHK          | ChinoE (Enok) | SQ623        | Seahawk         | 214              | Yes (Prototype ABL)   |
-| HMD Raptor (Cancelled)            | ???          | ChinoE (Enok) | SQ507        | Raptor          | ???              | No                    |
+
+## Known scrapped Models
+| Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Similar to  |
+|-----------------------------------|--------------|---------------|--------------|-----------------|------------------|-------------|
+| Nokia G22 Plus                    | VNM          | ChinoE (Enok) | S0610        | Venom           | 106              | Nokia G22   |
+| Nokia G410 (TracFone)             | CTF          | ?             | ?            | CrusaderTF      | ?                | Nokia G310  |
+| HMD Raptor (TracFone / Verizon)   | RPT          | ChinoE (Enok) | SQ507        | Raptor          | 215              | HMD Fusion  |
 
 ## About USA model operator code
 - 00US: non-operator variant, sometimes also for Consumer Cellular
