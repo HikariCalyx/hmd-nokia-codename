@@ -135,12 +135,12 @@ For Phones and Tablets that released in both brands (XR21 and T21), SKUID used i
 ## Known scrapped Models
 Only confirmed scrapped models (i.e. unreleased) will be listed below.
 
-| Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Similar to    |
-|-----------------------------------|--------------|---------------|--------------|-----------------|------------------|---------------|
-| Nokia 400 4G (GAFP)               | IPA          | FIH           |              | ironpatriot     | -                | Nokia 3310 4G |
-| Nokia G22 Plus                    | VNM          | ChinoE (Enok) | S0610        | Venom           | 106              | Nokia G22     |
-| Nokia G410 (TracFone)             | CTF          | ?             | ?            | CrusaderTF      | ?                | Nokia G310    |
-| HMD Raptor (TracFone / Verizon)   | RPT          | ChinoE (Enok) | SQ507        | Raptor          | 215              | HMD Fusion    |
+| Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Similar to    | Known TA Code |
+|-----------------------------------|--------------|---------------|--------------|-----------------|------------------|---------------|---------------|
+| Nokia 400 4G (GAFP)               | IPA          | FIH           |              | ironpatriot     | -                | Nokia 3310 4G | TA-1208       |
+| Nokia G22 Plus                    | VNM          | ChinoE (Enok) | S0610        | Venom           | 106              | Nokia G22     | TA-1529       |
+| Nokia G410 (TracFone)             | CTF          | ?             | ?            | CrusaderTF      | ?                | Nokia G310    | N/A           |
+| HMD Raptor (TracFone / Verizon)   | RPT          | ChinoE (Enok) | SQ507        | Raptor          | 215              | HMD Fusion    | N1702V        |
 
 ## About USA model operator code
 - 00US: non-operator variant, sometimes also for Consumer Cellular
