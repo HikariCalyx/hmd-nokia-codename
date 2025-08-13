@@ -133,6 +133,8 @@ For Phones and Tablets that released in both brands (XR21 and T21), SKUID used i
 | HMD Vibe (TracFone)               | SHK          | ChinoE (Enok) | SQ623        | Seahawk         | 214              | Yes (Prototype ABL)   |
 
 ## Known scrapped Models
+Only confirmed scrapped models (i.e. unreleased) will be listed below.
+
 | Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Similar to    |
 |-----------------------------------|--------------|---------------|--------------|-----------------|------------------|---------------|
 | Nokia 400 4G (GAFP)               | IPA          | FIH           |              | ironpatriot     | -                | Nokia 3310 4G |
