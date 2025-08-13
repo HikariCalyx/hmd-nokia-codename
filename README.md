@@ -42,7 +42,6 @@ Security Version 1, 4, 8 and 9 are used by OST LA only if ODM is FIH. Security V
 | Nokia 8.1 / X7                    | PNX          | FIH           |              | phoenix         | 8                | Yes (UU4)             |
 | Nokia 8.3 5G                      | BGT          | Huaqin        | ZQN1876      | babygroot       | 102              | Yes (Prototype ABL)   |
 | Nokia 9 PureView                  | AOP          | FIH           |              | beholder        | 8                | Yes (UU4)             |
-| Nokia 400 4G (GAFP)               | IPA          | FIH           |              | ironpatriot     | -                | No                    |
 | Nokia 800 Tough (KaiOS)           | CNT          | FIH           |              | coconut         | -                | Yes (Generic)         |
 | Nokia 2720 Flip (KaiOS)           | BTS          | FIH           |              | beatles         | -                | Yes (Generic)         |
 | Nokia 8110 4G (KaiOS)             | ARG          | FIH           |              | argon           | -                | Yes (Generic)         |
@@ -134,11 +133,12 @@ For Phones and Tablets that released in both brands (XR21 and T21), SKUID used i
 | HMD Vibe (TracFone)               | SHK          | ChinoE (Enok) | SQ623        | Seahawk         | 214              | Yes (Prototype ABL)   |
 
 ## Known scrapped Models
-| Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Similar to  |
-|-----------------------------------|--------------|---------------|--------------|-----------------|------------------|-------------|
-| Nokia G22 Plus                    | VNM          | ChinoE (Enok) | S0610        | Venom           | 106              | Nokia G22   |
-| Nokia G410 (TracFone)             | CTF          | ?             | ?            | CrusaderTF      | ?                | Nokia G310  |
-| HMD Raptor (TracFone / Verizon)   | RPT          | ChinoE (Enok) | SQ507        | Raptor          | 215              | HMD Fusion  |
+| Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Similar to    |
+|-----------------------------------|--------------|---------------|--------------|-----------------|------------------|---------------|
+| Nokia 400 4G (GAFP)               | IPA          | FIH           |              | ironpatriot     | -                | Nokia 3310 4G |
+| Nokia G22 Plus                    | VNM          | ChinoE (Enok) | S0610        | Venom           | 106              | Nokia G22     |
+| Nokia G410 (TracFone)             | CTF          | ?             | ?            | CrusaderTF      | ?                | Nokia G310    |
+| HMD Raptor (TracFone / Verizon)   | RPT          | ChinoE (Enok) | SQ507        | Raptor          | 215              | HMD Fusion    |
 
 ## About USA model operator code
 - 00US: non-operator variant, sometimes also for Consumer Cellular
