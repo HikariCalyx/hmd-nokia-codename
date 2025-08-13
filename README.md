@@ -145,7 +145,7 @@ Only confirmed scrapped models (i.e. unreleased) will be listed below.
 ## About USA model operator code
 - 00US: non-operator variant, sometimes also for Consumer Cellular
 - 01US: AT&T
-- 02US: TracFone
+- 02US: TracFone/Verizon
 - 04US: T-Mobile/Metro
 - 06US: Consumer Cellular
 - 0CUS: Cricket
