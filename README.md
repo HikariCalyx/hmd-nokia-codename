@@ -100,8 +100,8 @@ Security Version 1, 4, 8 and 9 are used by OST LA only if ODM is FIH. Security V
 | Nokia C210                        | RVT          | ChinoE (Enok) | SQ611        | raven           | 213              | No                    |
 | Nokia C300                        | ORO          | Tinno         | U569         | orion           | 104              | No                    |
 | Nokia C300 (TracFone)             | ORT          | Tinno         | U569         | orionTracfone   | 201              | No                    |
-| Nokia G100 (Open Market)          | DPT          | Tinno         | V791         | dualipa         | 104              | Yes (Prototype ABL)   |
-| Nokia G100 (TracFone)             | DPT          | Tinno         | V791         | dualipa         | 206              | Yes (Prototype ABL)   |
+| Nokia G100 (Open Market)          | DPT          | Tinno         | V791         | dualipa         | 104              | No                    |
+| Nokia G100 (TracFone)             | DPT          | Tinno         | V791         | dualipa         | 206              | No                    |
 | Nokia G300                        | AKT          | ChinoE (Enok) | ?            | aoki            | 201              | Yes (Prototype ABL)   |
 | Nokia G310                        | SDT          | ChinoE (Enok) | Q5003        | shadowTMO       | 212              | Yes (Prototype ABL)   |
 | Nokia G400 (Open Market)          | STO          | Huaqin        | QN6170A      | stylesOpen      | 102              | Yes (Prototype ABL)   |
