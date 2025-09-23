@@ -127,6 +127,7 @@ For Phones and Tablets that released in both brands (XR21 and T21), SKUID used i
 | HMD Pulse Pro / M-Kopa X20        | LGR          | MobiWire      | GH6672       | LegendPro       | 109              | No                    |
 | HMD Skyline                       | TCT          | Huaqin        | QN7026A      | Tomcat          | 102              | No                    |
 | HMD Vibe 5G                       | ACD          | ?             | ?            | Accord          | ?                | No                    |
+| HMD Ivalo XE / Nokia Mission-Safe | ?            | ?             | ?            | ?               | ?                | No                    |
 
 ### USA exclusive
 | Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable | Known TA Code |
