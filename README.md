@@ -83,31 +83,31 @@ Security Version 1, 4, 8 and 9 are used by OST LA only if ODM is FIH. Security V
 | Nokia XR21 / HMD XR21             | SNT          | Hisense       | N930         | sentry          | 110              | No                    |
 
 ### USA exclusive
-| Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable |
-|-----------------------------------|--------------|---------------|--------------|-----------------|------------------|-----------------------|
-| Nokia 2.1 V                       | EVW          | FIH           |              | dynamo2_vzw     | 8                | Yes (UU4)             |
-| Nokia 3.1 A & C                   | EAG          | FIH           |              | eagle           | 8                | Yes (UU4)             |
-| Nokia 3.1 Plus C                  | RHD          | FIH           |              | radiohead       | 8                | Yes (UU4)             |
-| Nokia 3.2 V                       | DPL_VZW      | Wingtech      | T89629       | deadpool_vzw    | 1                | No                    |
-| Nokia 8.3 V 5G UW                 | RAV          | Huaqin        | ZQN1876c     | riseagainst     | 3                | Yes (Prototype ABL)   |
-| Nokia 2760 Flip (TracFone, KaiOS) | WND_TF       | FIH           |              | weeknd_tracfone | 202              | Yes (Generic)         |
-| Nokia 2780 Flip (KaiOS)           | WND          | FIH           |              | weeknd          | 114              | Yes (Generic)         |
-| Nokia C2 Tava / Tennen / 2V Tella | ARC          | Wingtech      | ?            | armstrong       | 3                | Yes (MTKClient)       |
-| Nokia C5 Endi                     | PMC          | Tech Mahindra | ?            | paramore        | 3                | Yes (MTKClient)       |
-| Nokia C100                        | DKT          | Tinno         | V590         | drakelite       | 205              | No                    |
-| Nokia C110                        | DGF          | Tinno         | U502         | dragonFone      | 211              | No                    |
-| Nokia C200                        | DRK          | ?             | ?            | drake           | 204              | No                    |
-| Nokia C210                        | RVT          | ChinoE (Enok) | SQ611        | raven           | 213              | No                    |
-| Nokia C300                        | ORO          | Tinno         | U569         | orion           | 104              | No                    |
-| Nokia C300 (TracFone)             | ORT          | Tinno         | U569         | orionTracfone   | 201              | No                    |
-| Nokia G100 (Open Market)          | DPT          | Tinno         | V791         | dualipa         | 104              | No                    |
-| Nokia G100 (TracFone)             | DPT          | Tinno         | V791         | dualipa         | 206              | No                    |
-| Nokia G300                        | AKT          | ChinoE (Enok) | ?            | aoki            | 201              | Yes (Prototype ABL)   |
-| Nokia G310                        | SDT          | ChinoE (Enok) | Q5003        | shadowTMO       | 212              | Yes (Prototype ABL)   |
-| Nokia G400 (Open Market)          | STO          | Huaqin        | QN6170A      | stylesOpen      | 102              | Yes (Prototype ABL)   |
-| Nokia G400 (TracFone)             | STF          | Huaqin        | QN6170A      | stylesTracFone  | 207              | Yes (Prototype ABL)   |
-| Nokia G400 (T-Mobile)             | STM          | Huaqin        | QN6170A      | stylesTMO       | 208              | Yes (Prototype ABL)   |
-| Nokia X100                        | DM5          | ChinoE (Enok) | DDMAU        | deadmau5        | 203              | Yes (Prototype ABL)   |
+| Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable | Known TA Code   |
+|-----------------------------------|--------------|---------------|--------------|-----------------|------------------|-----------------------|-----------------|
+| Nokia 2.1 V                       | EVW          | FIH           |              | dynamo2_vzw     | 8                | Yes (UU4)             | TA-1136         |
+| Nokia 3.1 A & C                   | EAG          | FIH           |              | eagle           | 8                | Yes (UU4)             | TA-1140 TA-1141 |
+| Nokia 3.1 Plus C                  | RHD          | FIH           |              | radiohead       | 8                | Yes (UU4)             | TA-1124         |
+| Nokia 3.2 V                       | DPL_VZW      | Wingtech      | T89629       | deadpool_vzw    | 1                | No                    | TA-1153 TA-1182 |
+| Nokia 8.3 V 5G UW                 | RAV          | Huaqin        | ZQN1876c     | riseagainst     | 3                | Yes (Prototype ABL)   | TA-1257         |
+| Nokia 2760 Flip (TracFone, KaiOS) | WND_TF       | FIH           |              | weeknd_tracfone | 202              | Yes (Generic)         | N139DL          |
+| Nokia 2780 Flip (KaiOS)           | WND          | FIH           |              | weeknd          | 114              | Yes (Generic)         | TA-1420         |
+| Nokia C2 Tava / Tennen / 2V Tella | ARC          | Wingtech      | ?            | armstrong       | 3                | Yes (MTKClient)       | TA-1218 TA-1221 |
+| Nokia C5 Endi                     | PMC          | Tech Mahindra | ?            | paramore        | 3                | Yes (MTKClient)       | TA-1222         |
+| Nokia C100                        | DKT          | Tinno         | V590         | drakelite       | 205              | No                    | TA-1484 N152DL  |
+| Nokia C110                        | DGF          | Tinno         | U502         | dragonFone      | 211              | No                    | TA-1554 N156DL  |
+| Nokia C200                        | DRK          | ?             | ?            | drake           | 204              | No                    | TA-1437 TA-1510 |
+| Nokia C210                        | RVT          | ChinoE (Enok) | SQ611        | raven           | 213              | No                    | TA-1584         |
+| Nokia C300                        | ORO          | Tinno         | U569         | orion           | 104              | No                    | TA-1515         |
+| Nokia C300 (TracFone)             | ORT          | Tinno         | U569         | orionTracfone   | 201              | No                    | N155DL          |
+| Nokia G100 (Open Market)          | DPT          | Tinno         | V791         | dualipa         | 104              | No                    | TA-1430         |
+| Nokia G100 (TracFone)             | DPT          | Tinno         | V791         | dualipa         | 206              | No                    | N150DL          |
+| Nokia G300                        | AKT          | ChinoE (Enok) | ?            | aoki            | 201              | Yes (Prototype ABL)   | N1374DL         |
+| Nokia G310                        | SDT          | ChinoE (Enok) | Q5003        | shadowTMO       | 212              | Yes (Prototype ABL)   | TA-1573         |
+| Nokia G400 (Open Market)          | STO          | Huaqin        | QN6170A      | stylesOpen      | 102              | Yes (Prototype ABL)   | TA-1476         |
+| Nokia G400 (TracFone)             | STF          | Huaqin        | QN6170A      | stylesTracFone  | 207              | Yes (Prototype ABL)   | N1530DL         |
+| Nokia G400 (T-Mobile)             | STM          | Huaqin        | QN6170A      | stylesTMO       | 208              | Yes (Prototype ABL)   | TA-1448         |
+| Nokia X100                        | DM5          | ChinoE (Enok) | DDMAU        | deadmau5        | 203              | Yes (Prototype ABL)   | TA-1399         |
 
 ## HMD Brand
 The base SKUID of HMD's own brand smartphones is 100WW instead of 600WW.
@@ -129,10 +129,10 @@ For Phones and Tablets that released in both brands (XR21 and T21), SKUID used i
 | HMD Vibe 5G                       | ACD          | ?             | ?            | Accord          | ?                | No                    |
 
 ### USA exclusive
-| Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable |
-|-----------------------------------|--------------|---------------|--------------|-----------------|------------------|-----------------------|
-| HMD Vibe                          | SKO          | ChinoE (Enok) | SQ623        | SeahawkOM       | 106              | No                    |
-| HMD Vibe (TracFone)               | SHK          | ChinoE (Enok) | SQ623        | Seahawk         | 214              | Yes (Prototype ABL)   |
+| Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable | Known TA Code |
+|-----------------------------------|--------------|---------------|--------------|-----------------|------------------|-----------------------|---------------|
+| HMD Vibe                          | SKO          | ChinoE (Enok) | SQ623        | SeahawkOM       | 106              | No                    | TA-1590       |
+| HMD Vibe (TracFone)               | SHK          | ChinoE (Enok) | SQ623        | Seahawk         | 214              | Yes (Prototype ABL)   | N159V         |
 
 ## Known scrapped Models
 Only confirmed scrapped models (i.e. unreleased) will be listed below.
@@ -142,7 +142,7 @@ Only confirmed scrapped models (i.e. unreleased) will be listed below.
 | Nokia 400 4G (GAFP)               | IPA          | FIH           |              | ironpatriot     | -                | Nokia 3310 4G | TA-1208       |
 | Nokia G22 Plus                    | VNM          | ChinoE (Enok) | S0610        | Venom           | 106              | Nokia G22     | TA-1529       |
 | Nokia G410 (TracFone)             | CTF          | ?             | ?            | CrusaderTF      | ?                | Nokia G310    | N1540DL       |
-| HMD Raptor (TracFone / Verizon)   | RPT          | ChinoE (Enok) | SQ507        | Raptor          | 215              | HMD Fusion    | N1702V        |
+| HMD Raptor (TracFone / Verizon)   | RPT          | ChinoE (Enok) | SQ507        | Raptor          | 215              | HMD Fusion    | H1702V        |
 
 ## About USA model operator code
 - 00US: non-operator variant, sometimes also for Consumer Cellular
