@@ -69,7 +69,7 @@ Security Version 1, 4, 8 and 9 are used by OST LA only if ODM is FIH. Security V
 | Nokia G20                         | RNN          | Wingtech      | T99653       | ronin           | 101              | Yes (MTKClient)       |
 | Nokia G21                         | SCP          | Wingtech      | T19655       | shadowcatplus   | 101              | Yes (CVE-2022-38694)  |
 | Nokia G22                         | SFI          | ChinoE (Enok) | S0609        | sunfire         | 106              | No                    |
-| Nokia G42                         | SDW          | ChinoE (Enok) | Q5003        | shadow          | 106              | No                    |
+| Nokia G42                         | SDW          | ChinoE (Enok) | Q5003        | shadow          | 106              | Yes (Prototype ABL)   |
 | Nokia G50                         | PHR          | Tinno         | P660         | punisher        | 104              | Yes (Prototype ABL)   |
 | Nokia G60                         | APO          | ChinoE (Enok) | Q7505        | apollo          | 106              | Yes (Prototype ABL)   |
 | Nokia T10                         | PGN          | ?             | FM626_G3     | penguin         | 112              | No                    |
@@ -120,7 +120,7 @@ For Phones and Tablets that released in both brands (XR21 and T21), SKUID used i
 | HMD Aura                          | RCK          | ?             | ?            | Rocky           | ?                | No                    |
 | HMD Crest                         | ARW          | ChinoE / Enok | SU763        | Arrow           | 106              | No                    |
 | HMD Crest Max                     | ARP          | ChinoE / Enok | SU763        | ArrowPro        | 106              | No                    |
-| HMD Fusion                        | NHK          | ChinoE / Enok | SQ503        | Nighthawk       | 106              | Yes                   |
+| HMD Fusion                        | NHK          | ChinoE / Enok | SQ503        | Nighthawk       | 106              | Yes (Early FW ABL)    |
 | HMD Key                           | CMT          | ?             | ?            | Comet           | 112              | No                    |
 | HMD Pulse / M-Kopa X2             | LGD          | MobiWire      | GH6671       | Legend          | 109              | No                    |
 | HMD Pulse+                        | LGP          | MobiWire      | GH6671P      | LegendPlus      | 109              | No                    |
