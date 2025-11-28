@@ -92,7 +92,7 @@ Security Version 1, 4, 8 and 9 are used by OST LA only if ODM is FIH. Security V
 | Nokia 8.3 V 5G UW                 | RAV          | Huaqin        | ZQN1876c     | riseagainst     | 3                | Yes (Prototype ABL)   | TA-1257         |
 | Nokia 2760 Flip (TracFone, KaiOS) | WND_TF       | FIH           |              | weeknd_tracfone | 202              | Yes (Generic)         | N139DL          |
 | Nokia 2780 Flip (KaiOS)           | WND          | FIH           |              | weeknd          | 114              | Yes (Generic)         | TA-1420         |
-| Nokia C2 Tava / Tennen / 2V Tella | ARC          | Wingtech      | ?            | armstrong       | 3                | Yes (MTKClient)       | TA-1218 TA-1221 |
+| Nokia C2 Tava / Tennen / 2V Tella | ARC          | ChinoE (Enok) | ?            | armstrong       | 106              | Yes (MTKClient)       | TA-1218 TA-1221 |
 | Nokia C5 Endi                     | PMC          | Tech Mahindra | ?            | paramore        | 3                | Yes (MTKClient)       | TA-1222         |
 | Nokia C100                        | DKT          | Tinno         | V590         | drakelite       | 205              | No                    | TA-1484 N152DL  |
 | Nokia C110                        | DGF          | Tinno         | U502         | dragonFone      | 211              | No                    | TA-1554 N156DL  |
