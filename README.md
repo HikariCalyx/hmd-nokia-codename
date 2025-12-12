@@ -46,7 +46,7 @@ Security Version 1, 4, 8 and 9 are used by OST LA only if ODM is FIH. Security V
 | Nokia 2720 Flip (KaiOS)           | BTS          | FIH           |              | beatles         | -                | Yes (Generic)         |
 | Nokia 8110 4G (KaiOS)             | ARG          | FIH           |              | argon           | -                | Yes (Generic)         |
 | Nokia C01 Plus                    | IRS          | Wingtech      | T19545       | iris            | 101              | No                    |
-| Nokia C02                         | CYR          | Sprocomm      | E????N       | cypher          | 105              | No                    |
+| Nokia C02                         | CYR          | Sprocomm      | E5551N       | cypher          | 105              | No                    |
 | Nokia C1                          | RKU          | Tinno         | K150         | rocket          | 104              | No                    |
 | Nokia C1 2nd Edition              | IRU          | Wingtech      | T18546       | irisumts        | 101              | No                    |
 | Nokia C1 Plus                     | YDU          | Sprocomm      | E5531N       | yondu           | 105              | No                    |
