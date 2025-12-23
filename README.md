@@ -116,7 +116,7 @@ For Phones and Tablets that released in both brands (XR21 and T21), SKUID used i
 ### ROW models
 | Model                             | FIH Codename | ODM Name      | ODM Codename | Actual Codename | Security Version | Bootloader Unlockable |
 |-----------------------------------|--------------|---------------|--------------|-----------------|------------------|-----------------------|
-| HMD Arc / Aura²                   | NYX          | ?             | ?            | Nyx             | ?                | No                    |
+| HMD Arc / Aura² / M-Kopa M10      | NYX          | ?             | ?            | Nyx             | ?                | No                    |
 | HMD Aura                          | RCK          | ?             | ?            | Rocky           | ?                | No                    |
 | HMD Crest                         | ARW          | ChinoE / Enok | SU763        | Arrow           | 106              | No                    |
 | HMD Crest Max                     | ARP          | ChinoE / Enok | SU763        | ArrowPro        | 106              | No                    |
@@ -125,6 +125,7 @@ For Phones and Tablets that released in both brands (XR21 and T21), SKUID used i
 | HMD Pulse / M-Kopa X2             | LGD          | MobiWire      | GH6671       | Legend          | 109              | No                    |
 | HMD Pulse+                        | LGP          | MobiWire      | GH6671P      | LegendPlus      | 109              | No                    |
 | HMD Pulse Pro / M-Kopa X20        | LGR          | MobiWire      | GH6672       | LegendPro       | 109              | No                    |
+| HMD Pulse 2 Pro / M-Kopa X30      | ?            | ?             | ?            | ?               | ?                | No                    |
 | HMD Skyline                       | TCT          | Huaqin        | QN7026A      | Tomcat          | 102              | No                    |
 | HMD Terra M                       | CPA          | Hisense       |              | Cupra           | 110              | No                    |
 | HMD Vibe 5G                       | ACD          | ?             | ?            | Accord          | ?                | No                    |
