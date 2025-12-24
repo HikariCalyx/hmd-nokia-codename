@@ -128,6 +128,7 @@ For Phones and Tablets that released in both brands (XR21 and T21), SKUID used i
 | HMD Pulse 2 Pro / M-Kopa X30      | ?            | ?             | ?            | ?               | ?                | No                    |
 | HMD Skyline                       | TCT          | Huaqin        | QN7026A      | Tomcat          | 102              | No                    |
 | HMD Terra M                       | CPA          | Hisense       |              | Cupra           | 110              | No                    |
+| HMD Vibe²                         | STR          | MobiWire      | GH6751H      | Storm           | 109              | No                    |
 | HMD Vibe 5G                       | ACD          | ?             | ?            | Accord          | ?                | No                    |
 | HMD Ivalo XE / Nokia Mission-Safe | ?            | ?             | ?            | ?               | ?                | No                    |
 
