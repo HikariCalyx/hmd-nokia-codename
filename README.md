@@ -123,6 +123,7 @@ For Phones and Tablets that released in both brands (XR21 and T21), SKUID used i
 | HMD Fusion                        | NHK          | ChinoE / Enok | SQ503        | Nighthawk       | 106              | Yes (Early FW ABL)    |
 | HMD Key                           | CMT          | ?             | ?            | Comet           | 112              | No                    |
 | HMD Pulse / M-Kopa X2             | LGD          | MobiWire      | GH6671       | Legend          | 109              | No                    |
+| HMD Pulse 2 / M-Kopa X3           | HUX          | MobiWire      | ?            | Hux             | 109              | No                    |
 | HMD Pulse+                        | LGP          | MobiWire      | GH6671P      | LegendPlus      | 109              | No                    |
 | HMD Pulse Pro / M-Kopa X20        | LGR          | MobiWire      | GH6672       | LegendPro       | 109              | No                    |
 | HMD Pulse 2 Pro / M-Kopa X30      | ?            | ?             | ?            | ?               | ?                | No                    |
