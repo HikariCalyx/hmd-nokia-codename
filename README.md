@@ -147,7 +147,7 @@ Only confirmed scrapped models (i.e. unreleased) will be listed below.
 | Nokia 400 4G (GAFP)               | IPA          | FIH           |              | ironpatriot     | -                | Nokia 3310 4G | TA-1208       |
 | Nokia G22 Plus                    | VNM          | ChinoE (Enok) | S0610        | Venom           | 106              | Nokia G22     | TA-1529       |
 | Nokia G410 (TracFone)             | CTF          | ?             | ?            | CrusaderTF      | ?                | Nokia G310    | N1540DL       |
-| HMD Raptor (TracFone / Verizon)   | RPT          | ChinoE (Enok) | SQ507        | Raptor          | 215              | HMD Fusion    | H1702V        |
+| HMD Fusion Neo                    | RPT          | ChinoE (Enok) | SQ507        | Raptor          | 215              | HMD Fusion    | H1702V        |
 | HMD Titan (TracFone / Verizon)    | TTA          | ChinoE (Enok) | SQ505        | Titan           | 216              | ?             | H1715V        |
 
 ## About USA model operator code
